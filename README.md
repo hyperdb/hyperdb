@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/hyperdb?style=social)
+
 <!--
 **hyperdb/hyperdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
