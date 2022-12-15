@@ -6,4 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyperdb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCorder］ABC-042｜B 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/13e6376de2f640)
+- [［AtCorder］ABC-042｜A 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/b462a2dbdc2d1c)
+- [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
 <!-- BLOG-POST-LIST:END -->
