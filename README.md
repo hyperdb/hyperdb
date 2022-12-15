@@ -1,5 +1,3 @@
-# Welcome
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/hyperdb?label=twitter&logo=twitter&style=plastic)](https://twitter.com/hyperdb)
 [![Contributions](https://badgen.org/img/qiita/hyperdb/contributions?style=plastic)](https://qiita.com/hyperdb)
 [![Articles](https://badgen.org/img/qiita/hyperdb/articles?style=plastic)](https://qiita.com/hyperdb)
