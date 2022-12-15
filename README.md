@@ -12,8 +12,6 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCorder］ABC-043｜B バイナリハックイージー](https://zenn.dev/hyperdb/articles/93285160ef86bb)
-- [［AtCorder］ABC-043｜A キャンディーとN人の子供イージー](https://zenn.dev/hyperdb/articles/2863ed139fa6f0)
 - [［AtCorder］ABC-042｜B 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/13e6376de2f640)
 - [［AtCorder］ABC-042｜A 和風いろはちゃんイージー](https://zenn.dev/hyperdb/articles/b462a2dbdc2d1c)
 - [Python始めてみた](https://zenn.dev/hyperdb/articles/0f056ac2587337)
