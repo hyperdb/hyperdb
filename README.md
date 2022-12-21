@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCorder］ABC-052｜A  Two Rectangles](https://zenn.dev/hyperdb/articles/716d546e63da15)
+- [［AtCorder］ABC-052｜B Increment Decrement](https://zenn.dev/hyperdb/articles/6d08d3e6814f57)
 - [［AtCorder］ABC-049｜Ｂ たてなが](https://zenn.dev/hyperdb/articles/ecb4dd50256a1f)
 - [［AtCorder］ABC-051｜B Sum of Three Integers](https://zenn.dev/hyperdb/articles/d1e52a87b6559c)
 - [［AtCorder］ABC-045｜Ｂ 3人でカードゲームイージー](https://zenn.dev/hyperdb/articles/bd8d2dbcd31fc7)
-- [［AtCorder］ABC-044｜B 美しい文字列](https://zenn.dev/hyperdb/articles/9a92d299261031)
-- [［AtCorder］ABC-048｜A AtCoder *** Contest](https://zenn.dev/hyperdb/articles/74d9626fc673c4)
 <!-- BLOG-POST-LIST:END -->
