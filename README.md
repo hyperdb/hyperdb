@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCorder］ABC-054｜A One Card Poker](https://zenn.dev/hyperdb/articles/e8c6ca24186eab)
+- [［AtCorder］ABC-054｜B Template Matching](https://zenn.dev/hyperdb/articles/c827d8ea0c44c3)
 - [［AtCorder］ABC-053｜A ABC/ARC](https://zenn.dev/hyperdb/articles/4a5976399ffe4d)
 - [［AtCorder］ABC-053｜B A to Z String](https://zenn.dev/hyperdb/articles/018a7803515dea)
 - [［AtCorder］ABC-052｜A  Two Rectangles](https://zenn.dev/hyperdb/articles/716d546e63da15)
-- [［AtCorder］ABC-052｜B Increment Decrement](https://zenn.dev/hyperdb/articles/6d08d3e6814f57)
-- [［AtCorder］ABC-049｜Ｂ たてなが](https://zenn.dev/hyperdb/articles/ecb4dd50256a1f)
 <!-- BLOG-POST-LIST:END -->
