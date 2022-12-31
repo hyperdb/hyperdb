@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-065｜B Trained?](https://zenn.dev/hyperdb/articles/f5c30c90fd11b0)
-- [［AtCoder］ABC-064｜B Traveling AtCoDeer Problem](https://zenn.dev/hyperdb/articles/ced9b53c0ebbd5)
-- [［AtCoder］ABC-063｜A Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
-- [［AtCoder］ABC-065｜A Expired?](https://zenn.dev/hyperdb/articles/42d6fd0597b6ec)
-- [［AtCoder］ABC-063｜B Varied](https://zenn.dev/hyperdb/articles/3f9794654d30c1)
+- [［AtCoder］ABC-070｜ B Two Switches](https://zenn.dev/hyperdb/articles/f78a4a1fb9426b)
+- [［AtCoder］ABC-070｜A Palindromic Number](https://zenn.dev/hyperdb/articles/bfa7fe6c9a4dc8)
+- [［AtCoder］ABC-066｜A ringring](https://zenn.dev/hyperdb/articles/b14d103f6a2967)
+- [［AtCoder］ABC-068｜A Snake Toy](https://zenn.dev/hyperdb/articles/ac323bc73a4d90)
+- [［AtCoder］ABC-068｜B Break Number](https://zenn.dev/hyperdb/articles/9a04b24a194852)
 <!-- BLOG-POST-LIST:END -->
