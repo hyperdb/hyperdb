@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCorder］ABC-065｜B Trained?](https://zenn.dev/hyperdb/articles/f5c30c90fd11b0)
-- [［AtCorder］ABC-064｜B Traveling AtCoDeer Problem](https://zenn.dev/hyperdb/articles/ced9b53c0ebbd5)
-- [［AtCorder］ABC-063｜A Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
-- [［AtCorder］ABC-065｜A Expired?](https://zenn.dev/hyperdb/articles/42d6fd0597b6ec)
-- [［AtCorder］ABC-063｜B Varied](https://zenn.dev/hyperdb/articles/3f9794654d30c1)
+- [［AtCoder］ABC-065｜B Trained?](https://zenn.dev/hyperdb/articles/f5c30c90fd11b0)
+- [［AtCoder］ABC-064｜B Traveling AtCoDeer Problem](https://zenn.dev/hyperdb/articles/ced9b53c0ebbd5)
+- [［AtCoder］ABC-063｜A Restricted](https://zenn.dev/hyperdb/articles/939309dd85a4bd)
+- [［AtCoder］ABC-065｜A Expired?](https://zenn.dev/hyperdb/articles/42d6fd0597b6ec)
+- [［AtCoder］ABC-063｜B Varied](https://zenn.dev/hyperdb/articles/3f9794654d30c1)
 <!-- BLOG-POST-LIST:END -->
