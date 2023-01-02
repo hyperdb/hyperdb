@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-070｜ B Two Switches](https://zenn.dev/hyperdb/articles/f78a4a1fb9426b)
-- [［AtCoder］ABC-070｜A Palindromic Number](https://zenn.dev/hyperdb/articles/bfa7fe6c9a4dc8)
-- [［AtCoder］ABC-066｜A ringring](https://zenn.dev/hyperdb/articles/b14d103f6a2967)
-- [［AtCoder］ABC-068｜A Snake Toy](https://zenn.dev/hyperdb/articles/ac323bc73a4d90)
-- [［AtCoder］ABC-068｜B Break Number](https://zenn.dev/hyperdb/articles/9a04b24a194852)
+- [［AtCoder］ABC-073｜ B Theater](https://zenn.dev/hyperdb/articles/f61c00de2843f3)
+- [［AtCoder］ABC-071｜ B Not Found](https://zenn.dev/hyperdb/articles/ecb969422e5541)
+- [［AtCoder］ABC-071｜ A Meal Delivery](https://zenn.dev/hyperdb/articles/e3ce7cca8bc961)
+- [［AtCoder］ABC-072｜ A Sandglass2](https://zenn.dev/hyperdb/articles/dfb35a0fcc045f)
+- [［AtCoder］ABC-073｜ A September 9](https://zenn.dev/hyperdb/articles/d1915faa0017e1)
 <!-- BLOG-POST-LIST:END -->
