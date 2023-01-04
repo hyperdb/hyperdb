@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-073｜ B Theater](https://zenn.dev/hyperdb/articles/f61c00de2843f3)
-- [［AtCoder］ABC-071｜ B Not Found](https://zenn.dev/hyperdb/articles/ecb969422e5541)
-- [［AtCoder］ABC-071｜ A Meal Delivery](https://zenn.dev/hyperdb/articles/e3ce7cca8bc961)
-- [［AtCoder］ABC-072｜ A Sandglass2](https://zenn.dev/hyperdb/articles/dfb35a0fcc045f)
-- [［AtCoder］ABC-073｜ A September 9](https://zenn.dev/hyperdb/articles/d1915faa0017e1)
+- [［AtCoder］ABC-076｜A - Rating Goal](https://zenn.dev/hyperdb/articles/92c3630390c1b1)
+- [［AtCoder］ABC-075｜A - One out of Three](https://zenn.dev/hyperdb/articles/8192e5d0540c86)
+- [［AtCoder］ABC-074｜A - Bichrome Cells](https://zenn.dev/hyperdb/articles/70af9364f037b9)
+- [［AtCoder］ABC-075｜B - Minesweeper](https://zenn.dev/hyperdb/articles/2edfb4fa04c975)
+- [［AtCoder］ABC-074｜B - Collecting Balls &lpar;Easy Version&rpar;](https://zenn.dev/hyperdb/articles/19a1071c792536)
 <!-- BLOG-POST-LIST:END -->
