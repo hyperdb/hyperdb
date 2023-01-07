@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-078｜A - HEX](https://zenn.dev/hyperdb/articles/e6dc594f04151a)
+- [［AtCoder］ABC-077｜A - Rotation](https://zenn.dev/hyperdb/articles/2d244241fc1b65)
+- [［AtCoder］ABC-078｜B - ISU](https://zenn.dev/hyperdb/articles/1fd089494b7130)
+- [［AtCoder］ABC-077｜B - Around Square](https://zenn.dev/hyperdb/articles/1c05f80c6fe29c)
 - [［AtCoder］ABC-076｜A - Rating Goal](https://zenn.dev/hyperdb/articles/92c3630390c1b1)
-- [［AtCoder］ABC-075｜A - One out of Three](https://zenn.dev/hyperdb/articles/8192e5d0540c86)
-- [［AtCoder］ABC-074｜A - Bichrome Cells](https://zenn.dev/hyperdb/articles/70af9364f037b9)
-- [［AtCoder］ABC-075｜B - Minesweeper](https://zenn.dev/hyperdb/articles/2edfb4fa04c975)
-- [［AtCoder］ABC-074｜B - Collecting Balls &lpar;Easy Version&rpar;](https://zenn.dev/hyperdb/articles/19a1071c792536)
 <!-- BLOG-POST-LIST:END -->
