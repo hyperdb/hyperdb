@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-080｜A - Parking](https://zenn.dev/hyperdb/articles/f1b425cb431524)
+- [［AtCoder］ABC-079｜A - Good Integer](https://zenn.dev/hyperdb/articles/9365eef7818dde)
+- [［AtCoder］ABC-080｜B - Harshad Number](https://zenn.dev/hyperdb/articles/8e577692cde16a)
+- [［AtCoder］ABC-079｜B - Lucas Number](https://zenn.dev/hyperdb/articles/5fc1c75bbb986b)
 - [［AtCoder］ABC-078｜A - HEX](https://zenn.dev/hyperdb/articles/e6dc594f04151a)
-- [［AtCoder］ABC-077｜A - Rotation](https://zenn.dev/hyperdb/articles/2d244241fc1b65)
-- [［AtCoder］ABC-078｜B - ISU](https://zenn.dev/hyperdb/articles/1fd089494b7130)
-- [［AtCoder］ABC-077｜B - Around Square](https://zenn.dev/hyperdb/articles/1c05f80c6fe29c)
-- [［AtCoder］ABC-076｜A - Rating Goal](https://zenn.dev/hyperdb/articles/92c3630390c1b1)
 <!-- BLOG-POST-LIST:END -->
