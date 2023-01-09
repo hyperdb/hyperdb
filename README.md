@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-081｜A - Placing Marbles](https://zenn.dev/hyperdb/articles/d5e9cbf0375e40)
+- [［AtCoder］ABC-081｜B - Shift only](https://zenn.dev/hyperdb/articles/6ba45884c5b045)
 - [［AtCoder］ABC-080｜A - Parking](https://zenn.dev/hyperdb/articles/f1b425cb431524)
 - [［AtCoder］ABC-079｜A - Good Integer](https://zenn.dev/hyperdb/articles/9365eef7818dde)
 - [［AtCoder］ABC-080｜B - Harshad Number](https://zenn.dev/hyperdb/articles/8e577692cde16a)
-- [［AtCoder］ABC-079｜B - Lucas Number](https://zenn.dev/hyperdb/articles/5fc1c75bbb986b)
-- [［AtCoder］ABC-078｜A - HEX](https://zenn.dev/hyperdb/articles/e6dc594f04151a)
 <!-- BLOG-POST-LIST:END -->
