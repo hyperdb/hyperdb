@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-084｜A - New Year](https://zenn.dev/hyperdb/articles/7bef95325ad968)
+- [［AtCoder］ABC-084｜B - Postal Code](https://zenn.dev/hyperdb/articles/3a06137ed53c36)
 - [［AtCoder］ABC-083｜A - Libra](https://zenn.dev/hyperdb/articles/e94bc479080d64)
 - [［AtCoder］ABC-083｜B - Some Sums](https://zenn.dev/hyperdb/articles/28ea79f1283c67)
 - [［AtCoder］ABC-082｜B - Two Anagrams](https://zenn.dev/hyperdb/articles/36e8176afd248c)
-- [［AtCoder］ABC-082｜A - Round Up the Mean](https://zenn.dev/hyperdb/articles/2277f16d6b8c5a)
-- [［AtCoder］ABC-081｜A - Placing Marbles](https://zenn.dev/hyperdb/articles/d5e9cbf0375e40)
 <!-- BLOG-POST-LIST:END -->
