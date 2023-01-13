@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-087｜B - Coins](https://zenn.dev/hyperdb/articles/a0d878e6585e59)
+- [［AtCoder］ABC-087｜A - Buying Sweets](https://zenn.dev/hyperdb/articles/39cf9e86d4c937)
 - [［AtCoder］ABC-086｜B - 1 21](https://zenn.dev/hyperdb/articles/f6764ef9e00057)
 - [［AtCoder］ABC-085｜A - Already 2018](https://zenn.dev/hyperdb/articles/dd73a1ea27c3f0)
 - [［AtCoder］ABC-086｜A - Product](https://zenn.dev/hyperdb/articles/b88cd0d8920faa)
-- [［AtCoder］ABC-085｜B - Kagami Mochi](https://zenn.dev/hyperdb/articles/9f420c41e56e37)
-- [［AtCoder］ABC-084｜A - New Year](https://zenn.dev/hyperdb/articles/7bef95325ad968)
 <!-- BLOG-POST-LIST:END -->
