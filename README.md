@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-095｜A - Something on It](https://zenn.dev/hyperdb/articles/e0c49690d9cc79)
+- [［AtCoder］ABC-095｜B - Bitter Alchemy](https://zenn.dev/hyperdb/articles/9d67d88392ddde)
 - [［AtCoder］ABC-094｜A - Cats and Dogs](https://zenn.dev/hyperdb/articles/e80063c0a3b75b)
 - [［AtCoder］ABC-094｜B - Toll Gates](https://zenn.dev/hyperdb/articles/8f0c863bab4806)
 - [［AtCoder］ABC-091｜A - Two Coins](https://zenn.dev/hyperdb/articles/e0521ad8b02d4b)
-- [［AtCoder］ABC-092｜A - Traveling Budget](https://zenn.dev/hyperdb/articles/d94f58f3204935)
-- [［AtCoder］ABC-092｜B - Chocolate](https://zenn.dev/hyperdb/articles/c5a4549da87fb7)
 <!-- BLOG-POST-LIST:END -->
