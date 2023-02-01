@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-113｜A - Discount Fare](https://zenn.dev/hyperdb/articles/3acb45ec8356af)
+- [［AtCoder］ABC-113｜B - Palace](https://zenn.dev/hyperdb/articles/28cb85811ed842)
 - [［AtCoder］ABC-112｜B - Time Limit Exceeded](https://zenn.dev/hyperdb/articles/ddd6b727116385)
 - [［AtCoder］ABC-112｜A - Programming Education](https://zenn.dev/hyperdb/articles/a47e3852ce5b96)
 - [［AtCoder］ABC-111｜B - AtCoder Beginner Contest 111](https://zenn.dev/hyperdb/articles/de3e1a50328995)
-- [［AtCoder］ABC-111｜A - AtCoder Beginner Contest 999](https://zenn.dev/hyperdb/articles/60c3ac8a4aa47a)
-- [［AtCoder］ABC-110｜A - Maximize the Formula](https://zenn.dev/hyperdb/articles/f8bedc9dc5a27f)
 <!-- BLOG-POST-LIST:END -->
