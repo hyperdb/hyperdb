@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [記事一覧を出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
 - [［AtCoder］ABC-116｜B - Collatz Probleme](https://zenn.dev/hyperdb/articles/b7d55619f81497)
 - [［AtCoder］ABC-116｜A - Right Triangle](https://zenn.dev/hyperdb/articles/5bdd8dea1ec59d)
 - [［AtCoder］ABC-115｜B - Christmas Eve Eve](https://zenn.dev/hyperdb/articles/8ef157fdaba3d0)
 - [［AtCoder］ABC-115｜A - Christmas Eve Eve Eve](https://zenn.dev/hyperdb/articles/30cc399f9e9d52)
-- [［AtCoder］ABC-114｜A - 753](https://zenn.dev/hyperdb/articles/c5197523c697b3)
 <!-- BLOG-POST-LIST:END -->
