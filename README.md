@@ -19,7 +19,7 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [記事一覧を出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
+- [［zenn］投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
 - [［AtCoder］ABC-116｜B - Collatz Probleme](https://zenn.dev/hyperdb/articles/b7d55619f81497)
 - [［AtCoder］ABC-116｜A - Right Triangle](https://zenn.dev/hyperdb/articles/5bdd8dea1ec59d)
 - [［AtCoder］ABC-115｜B - Christmas Eve Eve](https://zenn.dev/hyperdb/articles/8ef157fdaba3d0)
