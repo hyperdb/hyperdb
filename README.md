@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-119｜A - Still TBD](https://zenn.dev/hyperdb/articles/d681573c4b9f9e)
+- [［AtCoder］ABC-119｜B - Digital Gifts](https://zenn.dev/hyperdb/articles/5b44487a0cc503)
 - [［AtCoder］ABC-118｜B - Foods Loved by Everyone](https://zenn.dev/hyperdb/articles/f7170ba5a13e43)
 - [［AtCoder］ABC-118｜A - B +/- A](https://zenn.dev/hyperdb/articles/1c1444e55a5126)
 - [［AtCoder］ABC-117｜A - Entrance Examination](https://zenn.dev/hyperdb/articles/d0282bbde887b2)
-- [［AtCoder］ABC-117｜B - Polygon](https://zenn.dev/hyperdb/articles/094bc21322e75d)
-- [［zenn］投稿した記事の一覧をファイルに出力してみる](https://zenn.dev/hyperdb/articles/1ae6c6301de459)
 <!-- BLOG-POST-LIST:END -->
