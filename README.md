@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-120｜A - Favorite Sound](https://zenn.dev/hyperdb/articles/f70cb08294ab1f)
+- [［AtCoder］ABC-120｜B - K-th Common Divisor](https://zenn.dev/hyperdb/articles/0dc55425b6fad9)
 - [［AtCoder］ABC-119｜A - Still TBD](https://zenn.dev/hyperdb/articles/d681573c4b9f9e)
 - [［AtCoder］ABC-119｜B - Digital Gifts](https://zenn.dev/hyperdb/articles/5b44487a0cc503)
 - [［AtCoder］ABC-118｜B - Foods Loved by Everyone](https://zenn.dev/hyperdb/articles/f7170ba5a13e43)
-- [［AtCoder］ABC-118｜A - B +/- A](https://zenn.dev/hyperdb/articles/1c1444e55a5126)
-- [［AtCoder］ABC-117｜A - Entrance Examination](https://zenn.dev/hyperdb/articles/d0282bbde887b2)
 <!-- BLOG-POST-LIST:END -->
