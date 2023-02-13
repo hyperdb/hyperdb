@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-127｜B - Algae](https://zenn.dev/hyperdb/articles/a18284ddddaae0)
+- [［AtCoder］ABC-127｜A - Ferris Wheel](https://zenn.dev/hyperdb/articles/6ec583eedb2137)
 - [［AtCoder］ABC-126｜A - Changing a Character](https://zenn.dev/hyperdb/articles/c790e588df8c35)
 - [［AtCoder］ABC-126｜B - YYMM or MMYY](https://zenn.dev/hyperdb/articles/b58cd0c575833d)
 - [［AtCoder］ABC-124｜A - Buttons](https://zenn.dev/hyperdb/articles/cbf6100bfcae7c)
-- [［AtCoder］ABC-124｜B - Great Ocean View](https://zenn.dev/hyperdb/articles/9d57fd69e580ec)
-- [［AtCoder］ABC-125｜B - Resale](https://zenn.dev/hyperdb/articles/5c6a36e21297f4)
 <!-- BLOG-POST-LIST:END -->
