@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-130｜A - Rounding](https://zenn.dev/hyperdb/articles/f7be603fd584e9)
+- [［AtCoder］ABC-130｜B - Bounding](https://zenn.dev/hyperdb/articles/c4fb556e2014e4)
 - [［AtCoder］ABC-129｜A - Airplane](https://zenn.dev/hyperdb/articles/77b429fe547c02)
 - [［AtCoder］ABC-129｜B - Balance](https://zenn.dev/hyperdb/articles/14d2b05e9a09cb)
 - [［AtCoder］ABC-128｜A - Apple Pie](https://zenn.dev/hyperdb/articles/d6b7a4fe968424)
-- [［AtCoder］ABC-128｜B - Guidebook](https://zenn.dev/hyperdb/articles/282c1d36e12b97)
-- [［AtCoder］ABC-127｜B - Algae](https://zenn.dev/hyperdb/articles/a18284ddddaae0)
 <!-- BLOG-POST-LIST:END -->
