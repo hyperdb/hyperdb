@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-132｜A - Fifty-Fifty](https://zenn.dev/hyperdb/articles/d43e240b206cc5)
+- [［AtCoder］ABC-132｜B - Ordinary Number](https://zenn.dev/hyperdb/articles/8517e7d17aff88)
+- [［AtCoder］ABC-131｜A - Security](https://zenn.dev/hyperdb/articles/6796234739e31b)
+- [［AtCoder］ABC-131｜B - Bite Eating](https://zenn.dev/hyperdb/articles/5a7f8623dedbf4)
 - [［AtCoder］ABC-130｜A - Rounding](https://zenn.dev/hyperdb/articles/f7be603fd584e9)
-- [［AtCoder］ABC-130｜B - Bounding](https://zenn.dev/hyperdb/articles/c4fb556e2014e4)
-- [［AtCoder］ABC-129｜A - Airplane](https://zenn.dev/hyperdb/articles/77b429fe547c02)
-- [［AtCoder］ABC-129｜B - Balance](https://zenn.dev/hyperdb/articles/14d2b05e9a09cb)
-- [［AtCoder］ABC-128｜A - Apple Pie](https://zenn.dev/hyperdb/articles/d6b7a4fe968424)
 <!-- BLOG-POST-LIST:END -->
