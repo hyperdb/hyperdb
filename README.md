@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-138｜B - Resistors in Parallel](https://zenn.dev/hyperdb/articles/4b8586730b9f9a)
+- [［AtCoder］ABC-138｜A - Red or Not](https://zenn.dev/hyperdb/articles/2b2c6357163dee)
 - [［AtCoder］ABC-137｜B - One Clue](https://zenn.dev/hyperdb/articles/b0ff49575df0e7)
 - [［AtCoder］ABC-137｜A - +-x](https://zenn.dev/hyperdb/articles/a1dbc189328025)
 - [［AtCoder］ABC-135｜B - 0 or 1 Swap](https://zenn.dev/hyperdb/articles/79834ed40535ec)
-- [［AtCoder］ABC-136｜B - Uneven Numbers](https://zenn.dev/hyperdb/articles/6020b8aa4e388f)
-- [［AtCoder］ABC-136｜A - Transfer](https://zenn.dev/hyperdb/articles/52a9936ccc0215)
 <!-- BLOG-POST-LIST:END -->
