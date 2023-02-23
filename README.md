@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-142｜B - Roller Coaster](https://zenn.dev/hyperdb/articles/e3e23679a00d2b)
+- [［AtCoder］ABC-143｜A - Curtain](https://zenn.dev/hyperdb/articles/bb9a670d2449f4)
+- [［AtCoder］ABC-142｜A - Odds of Oddness](https://zenn.dev/hyperdb/articles/258c40fb7ea738)
+- [［AtCoder］ABC-143｜B - TAKOYAKI FESTIVAL 2019](https://zenn.dev/hyperdb/articles/1ccd5eacbf2530)
 - [［AtCoder］ABC-141｜B - Tap Dance](https://zenn.dev/hyperdb/articles/8762f307c9c148)
-- [［AtCoder］ABC-141｜A - Weather Prediction](https://zenn.dev/hyperdb/articles/1c8d1f5e93c93d)
-- [［AtCoder］ABC-140｜A - Password](https://zenn.dev/hyperdb/articles/9830a469a0943c)
-- [［AtCoder］ABC-140｜B - Buffet](https://zenn.dev/hyperdb/articles/7cb9676ba372c1)
-- [［AtCoder］ABC-139｜B - Power Socket](https://zenn.dev/hyperdb/articles/ce13c2be08b1cd)
 <!-- BLOG-POST-LIST:END -->
