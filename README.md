@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-152｜B - Comparing Strings](https://zenn.dev/hyperdb/articles/14ccc78686409b)
+- [［AtCoder］ABC-152｜A - AC or WA](https://zenn.dev/hyperdb/articles/0b421359c59776)
 - [［AtCoder］ABC-151｜A - Next Alphabet](https://zenn.dev/hyperdb/articles/df387cdc1b86d8)
 - [［AtCoder］ABC-151｜B - Achieve the Goal](https://zenn.dev/hyperdb/articles/dde59fbd047e57)
 - [［AtCoder］ABC-150｜A - 500 Yen Coins](https://zenn.dev/hyperdb/articles/d194cb7a348c9e)
-- [［AtCoder］ABC-150｜B - Count ABC](https://zenn.dev/hyperdb/articles/1981400dfc854d)
-- [［AtCoder］ABC-149｜B - Greedy Takahashi](https://zenn.dev/hyperdb/articles/918650dd2179a1)
 <!-- BLOG-POST-LIST:END -->
