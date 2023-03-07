@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-159｜A - The Number of Even Pairs](https://zenn.dev/hyperdb/articles/ca02667d6797be)
+- [［AtCoder］ABC-159｜B - String Palindrome](https://zenn.dev/hyperdb/articles/ac85b4a2b9b340)
 - [［AtCoder］ABC-158｜B - Count Balls](https://zenn.dev/hyperdb/articles/d1b2104e629a60)
 - [［AtCoder］ABC-158｜A - Station and Bus](https://zenn.dev/hyperdb/articles/bcdb04f34c0977)
 - [［AtCoder］ABC-157｜B - Bingo](https://zenn.dev/hyperdb/articles/d2a561979f1f42)
-- [［AtCoder］ABC-157｜A - Duplex Printing](https://zenn.dev/hyperdb/articles/1d83f12f3560a5)
-- [［AtCoder］ABC-155｜B - Papers, Please](https://zenn.dev/hyperdb/articles/ff69a58ef197a9)
 <!-- BLOG-POST-LIST:END -->
