@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-165｜B - 1%](https://zenn.dev/hyperdb/articles/6d7925cee4e867)
+- [［AtCoder］ABC-165｜A - We Love Golf](https://zenn.dev/hyperdb/articles/1cae336ff060cf)
 - [［AtCoder］ABC-164｜A - Sheep and Wolves](https://zenn.dev/hyperdb/articles/f7f2105f1cf351)
 - [［AtCoder］ABC-163｜A - Circle Pond](https://zenn.dev/hyperdb/articles/a5679d1eec5f84)
 - [［AtCoder］ABC-163｜B - Homework](https://zenn.dev/hyperdb/articles/9559c6ab8a9161)
-- [［AtCoder］ABC-164｜B - Battle](https://zenn.dev/hyperdb/articles/82ef443a6e532d)
-- [［AtCoder］ABC-162｜B - FizzBuzz Sum](https://zenn.dev/hyperdb/articles/df4be7a3a4aa4f)
 <!-- BLOG-POST-LIST:END -->
