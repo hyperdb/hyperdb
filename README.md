@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-166｜B - Trick or Treat](https://zenn.dev/hyperdb/articles/b63605b6e0744c)
+- [［AtCoder］ABC-166｜A - A?C](https://zenn.dev/hyperdb/articles/165724e35805a5)
 - [［AtCoder］ABC-165｜B - 1%](https://zenn.dev/hyperdb/articles/6d7925cee4e867)
 - [［AtCoder］ABC-165｜A - We Love Golf](https://zenn.dev/hyperdb/articles/1cae336ff060cf)
 - [［AtCoder］ABC-164｜A - Sheep and Wolves](https://zenn.dev/hyperdb/articles/f7f2105f1cf351)
-- [［AtCoder］ABC-163｜A - Circle Pond](https://zenn.dev/hyperdb/articles/a5679d1eec5f84)
-- [［AtCoder］ABC-163｜B - Homework](https://zenn.dev/hyperdb/articles/9559c6ab8a9161)
 <!-- BLOG-POST-LIST:END -->
