@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-172｜B - Minor Change](https://zenn.dev/hyperdb/articles/ca941b64e0f231)
+- [［AtCoder］ABC-172｜A - Calc](https://zenn.dev/hyperdb/articles/a309b8050ccd11)
+- [［AtCoder］ABC-171｜A - αlphabet](https://zenn.dev/hyperdb/articles/605116edbb6374)
+- [［AtCoder］ABC-171｜B - Mix Juice](https://zenn.dev/hyperdb/articles/56887623ee0823)
 - [［AtCoder］ABC-170｜A - Five Variables](https://zenn.dev/hyperdb/articles/62d6fa54badf5a)
-- [［AtCoder］ABC-170｜B - Crane and Turtle](https://zenn.dev/hyperdb/articles/241ca99de4372b)
-- [［AtCoder］ABC-169｜A - Multiplication 1](https://zenn.dev/hyperdb/articles/b24948580797b5)
-- [［AtCoder］ABC-169｜B - Multiplication 2](https://zenn.dev/hyperdb/articles/10273a004a8937)
-- [［AtCoder］ABC-168｜B - ... &lpar;Triple Dots&rpar;](https://zenn.dev/hyperdb/articles/8e9a950b9c027b)
 <!-- BLOG-POST-LIST:END -->
