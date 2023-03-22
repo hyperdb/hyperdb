@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-178｜A - Not](https://zenn.dev/hyperdb/articles/f3b35bef069f18)
+- [［AtCoder］ABC-178｜B - Product Max](https://zenn.dev/hyperdb/articles/b402f2a3db21cd)
 - [［AtCoder］ABC-176｜A - Takoyaki](https://zenn.dev/hyperdb/articles/da9b0c43dc404b)
 - [［AtCoder］ABC-177｜B - Substring](https://zenn.dev/hyperdb/articles/9d1242746c7c66)
 - [［AtCoder］ABC-177｜A - Don&#39;t be late](https://zenn.dev/hyperdb/articles/7d65fafcb01ca8)
-- [［AtCoder］ABC-176｜B - Multiple of 9](https://zenn.dev/hyperdb/articles/4010f38975001b)
-- [［AtCoder］ABC-175｜B - Making Triangle](https://zenn.dev/hyperdb/articles/e5e0a27558b9db)
 <!-- BLOG-POST-LIST:END -->
