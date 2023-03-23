@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-179｜A - Plural Form](https://zenn.dev/hyperdb/articles/c073aea370a601)
+- [［AtCoder］ABC-179｜B - Go to Jail](https://zenn.dev/hyperdb/articles/4617a7b2a92d79)
 - [［AtCoder］ABC-178｜A - Not](https://zenn.dev/hyperdb/articles/f3b35bef069f18)
 - [［AtCoder］ABC-178｜B - Product Max](https://zenn.dev/hyperdb/articles/b402f2a3db21cd)
 - [［AtCoder］ABC-176｜A - Takoyaki](https://zenn.dev/hyperdb/articles/da9b0c43dc404b)
-- [［AtCoder］ABC-177｜B - Substring](https://zenn.dev/hyperdb/articles/9d1242746c7c66)
-- [［AtCoder］ABC-177｜A - Don&#39;t be late](https://zenn.dev/hyperdb/articles/7d65fafcb01ca8)
 <!-- BLOG-POST-LIST:END -->
