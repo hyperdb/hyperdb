@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-184｜B - Quizzes](https://zenn.dev/hyperdb/articles/b2aadee9350e25)
+- [［AtCoder］ABC-184｜A - Determinant](https://zenn.dev/hyperdb/articles/7462c69d3d35d5)
 - [［AtCoder］ABC-183｜A - ReLU](https://zenn.dev/hyperdb/articles/accb751b2795d6)
 - [［AtCoder］ABC-183｜B - Billiards](https://zenn.dev/hyperdb/articles/4136755d286d42)
 - [［AtCoder］ABC-182｜A - twiblr](https://zenn.dev/hyperdb/articles/f579d27b4519d7)
-- [［AtCoder］ABC-181｜B - Trapezoid Sum](https://zenn.dev/hyperdb/articles/e48234cfd62f37)
-- [［AtCoder］ABC-182｜B - Almost GCD](https://zenn.dev/hyperdb/articles/763920ac858c78)
 <!-- BLOG-POST-LIST:END -->
