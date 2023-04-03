@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-190｜A - Very Very Primitive Game](https://zenn.dev/hyperdb/articles/e573a98948a996)
+- [［AtCoder］ABC-190｜B - Magic 3](https://zenn.dev/hyperdb/articles/ae1705b5d701ef)
 - [［AtCoder］ABC-189｜A - Slot](https://zenn.dev/hyperdb/articles/ca5518d416d17f)
 - [［AtCoder］ABC-189｜B - Alcoholic](https://zenn.dev/hyperdb/articles/52e39584b75ce8)
 - [［AtCoder］ABC-188｜A - Three-Point Shot](https://zenn.dev/hyperdb/articles/38d61de05c1731)
-- [［AtCoder］ABC-188｜B - Orthogonality](https://zenn.dev/hyperdb/articles/0276fe7b46d9e3)
-- [［AtCoder］ABC-187｜B - Gentle Pairs](https://zenn.dev/hyperdb/articles/cfc328a436142f)
 <!-- BLOG-POST-LIST:END -->
