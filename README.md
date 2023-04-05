@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-192｜A - Star](https://zenn.dev/hyperdb/articles/2238ede7835dbf)
+- [［AtCoder］ABC-192｜B - uNrEaDaBlE sTrInG](https://zenn.dev/hyperdb/articles/0ee39b8c08e259)
 - [［AtCoder］ABC-191｜A - Vanishing Pitch](https://zenn.dev/hyperdb/articles/e2ca832d8455fa)
 - [［AtCoder］ABC-191｜B - Remove It](https://zenn.dev/hyperdb/articles/9bfee70fc5b390)
 - [［AtCoder］ABC-190｜A - Very Very Primitive Game](https://zenn.dev/hyperdb/articles/e573a98948a996)
-- [［AtCoder］ABC-190｜B - Magic 3](https://zenn.dev/hyperdb/articles/ae1705b5d701ef)
-- [［AtCoder］ABC-189｜A - Slot](https://zenn.dev/hyperdb/articles/ca5518d416d17f)
 <!-- BLOG-POST-LIST:END -->
