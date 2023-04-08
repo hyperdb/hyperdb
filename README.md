@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-195｜B - Many Oranges](https://zenn.dev/hyperdb/articles/11f1494e1b0a71)
+- [［AtCoder］ABC-195｜A - Health M Death](https://zenn.dev/hyperdb/articles/0e87e505b892e4)
 - [［AtCoder］ABC-194｜A - I Scream](https://zenn.dev/hyperdb/articles/ee87e1bc84af20)
 - [［AtCoder］ABC-194｜B - Job Assignment](https://zenn.dev/hyperdb/articles/942476c4519af0)
 - [［AtCoder］ABC-193｜A - Discount](https://zenn.dev/hyperdb/articles/f899fb9a6b1094)
-- [［AtCoder］ABC-193｜B - Play Snuke](https://zenn.dev/hyperdb/articles/a79eea55fcab71)
-- [［AtCoder］ABC-192｜A - Star](https://zenn.dev/hyperdb/articles/2238ede7835dbf)
 <!-- BLOG-POST-LIST:END -->
