@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-202｜A - Three Dice](https://zenn.dev/hyperdb/articles/e533143a815041)
+- [［AtCoder］ABC-202｜B - 180°](https://zenn.dev/hyperdb/articles/5939b4acb1dcc0)
 - [［AtCoder］ABC-201｜B - Do you know the second highest mountain?](https://zenn.dev/hyperdb/articles/baa664fb624f05)
 - [［AtCoder］ABC-201｜A - Tiny Arithmetic Sequence](https://zenn.dev/hyperdb/articles/7a68bbbe94502a)
 - [［AtCoder］ABC-200｜A - Century](https://zenn.dev/hyperdb/articles/0690848ec44d99)
-- [［AtCoder］ABC-200｜ B - 200th ABC-200](https://zenn.dev/hyperdb/articles/050f7c1cb9746e)
-- [［AtCoder］ABC-199｜A - Square Inequality](https://zenn.dev/hyperdb/articles/8bdb615ea0e850)
 <!-- BLOG-POST-LIST:END -->
