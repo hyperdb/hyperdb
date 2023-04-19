@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-206｜B - Savings](https://zenn.dev/hyperdb/articles/ab7c66cd64f239)
+- [［AtCoder］ABC-206｜A - Maxi-Buying](https://zenn.dev/hyperdb/articles/368e051e268c0c)
 - [［AtCoder］ABC-205｜B - Permutation Check](https://zenn.dev/hyperdb/articles/de7079cbd9a2d3)
 - [［AtCoder］ABC-205｜A - kcal](https://zenn.dev/hyperdb/articles/129fa030a0077c)
 - [［AtCoder］ABC-203｜B - AtCoder Condominium](https://zenn.dev/hyperdb/articles/b11f8ca4de5f6f)
-- [［AtCoder］ABC-204｜A - Rock-paper-scissors](https://zenn.dev/hyperdb/articles/537f90229bc800)
-- [［AtCoder］ABC-203｜A - Chinchirorin](https://zenn.dev/hyperdb/articles/331d96ab0d8812)
 <!-- BLOG-POST-LIST:END -->
