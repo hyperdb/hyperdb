@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-215｜B - log2&lpar;N&rpar;](https://zenn.dev/hyperdb/articles/b5e631c4b34edd)
-- [［AtCoder］ABC-215｜A - Your First Judge](https://zenn.dev/hyperdb/articles/a5b4756d2cb87d)
 - [［AtCoder］ABC-214｜B - How many?](https://zenn.dev/hyperdb/articles/e245f9ce297698)
 - [［AtCoder］ABC-214｜A - New Generation ABC](https://zenn.dev/hyperdb/articles/d648bd7fa1fbb5)
 - [［AtCoder］ABC-213｜A - Bitwise Exclusive Or](https://zenn.dev/hyperdb/articles/b95065cc37c735)
+- [［AtCoder］ABC-213｜B - Booby Prize](https://zenn.dev/hyperdb/articles/8c6c3699ca823c)
+- [［AtCoder］ABC-212｜B - Weak Password](https://zenn.dev/hyperdb/articles/543865c00cea22)
 <!-- BLOG-POST-LIST:END -->
