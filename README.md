@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-217｜B - AtCoder Quiz](https://zenn.dev/hyperdb/articles/c337cff7ac2197)
+- [［AtCoder］ABC-217｜A - Lexicographic Order](https://zenn.dev/hyperdb/articles/bd91eeff631b5f)
 - [［AtCoder］ABC-216｜A - Signed Difficulty](https://zenn.dev/hyperdb/articles/53b82847da2f07)
 - [［AtCoder］ABC-216｜B - Same Name](https://zenn.dev/hyperdb/articles/1c4e3d3b581456)
 - [［AtCoder］ABC-215｜B - log2&lpar;N&rpar;](https://zenn.dev/hyperdb/articles/b5e631c4b34edd)
-- [［AtCoder］ABC-215｜A - Your First Judge](https://zenn.dev/hyperdb/articles/a5b4756d2cb87d)
-- [［AtCoder］ABC-214｜B - How many?](https://zenn.dev/hyperdb/articles/e245f9ce297698)
 <!-- BLOG-POST-LIST:END -->
