@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-223｜A - Exact Price](https://zenn.dev/hyperdb/articles/c49158fcdeaee2)
+- [［AtCoder］ABC-223｜B - String Shifting](https://zenn.dev/hyperdb/articles/3342a2028ee5aa)
 - [［AtCoder］ABC-222｜A - Four Digits](https://zenn.dev/hyperdb/articles/c6be983556aaae)
 - [［AtCoder］ABC-222｜B - Failing Grade](https://zenn.dev/hyperdb/articles/40f6ebd0104bcc)
 - [［AtCoder］ABC-221｜B - typo](https://zenn.dev/hyperdb/articles/f70c0091460393)
-- [［AtCoder］ABC-221｜A - Seismic magnitude scales](https://zenn.dev/hyperdb/articles/da8e0ad4e6c188)
-- [［AtCoder］ABC-220｜B - Base K](https://zenn.dev/hyperdb/articles/e931f01e962d42)
 <!-- BLOG-POST-LIST:END -->
