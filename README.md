@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-224｜A - Tires](https://zenn.dev/hyperdb/articles/e3722c9af92207)
+- [［AtCoder］ABC-224｜B - Mongeness](https://zenn.dev/hyperdb/articles/7c8269e598d801)
 - [［AtCoder］ABC-223｜A - Exact Price](https://zenn.dev/hyperdb/articles/c49158fcdeaee2)
 - [［AtCoder］ABC-223｜B - String Shifting](https://zenn.dev/hyperdb/articles/3342a2028ee5aa)
 - [［AtCoder］ABC-222｜A - Four Digits](https://zenn.dev/hyperdb/articles/c6be983556aaae)
-- [［AtCoder］ABC-222｜B - Failing Grade](https://zenn.dev/hyperdb/articles/40f6ebd0104bcc)
-- [［AtCoder］ABC-221｜B - typo](https://zenn.dev/hyperdb/articles/f70c0091460393)
 <!-- BLOG-POST-LIST:END -->
