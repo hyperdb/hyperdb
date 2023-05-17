@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-226｜B - Counting Arrays](https://zenn.dev/hyperdb/articles/91eab5f42dc9c9)
+- [［AtCoder］ABC-226｜A - Round decimals](https://zenn.dev/hyperdb/articles/1a8e79aa412ea0)
 - [［AtCoder］ABC-225｜B - Star or Not](https://zenn.dev/hyperdb/articles/798ea3cba60ea1)
 - [［AtCoder］ABC-225｜A - Distinct Strings](https://zenn.dev/hyperdb/articles/059bac02447217)
 - [［AtCoder］ABC-224｜A - Tires](https://zenn.dev/hyperdb/articles/e3722c9af92207)
-- [［AtCoder］ABC-224｜B - Mongeness](https://zenn.dev/hyperdb/articles/7c8269e598d801)
-- [［AtCoder］ABC-223｜A - Exact Price](https://zenn.dev/hyperdb/articles/c49158fcdeaee2)
 <!-- BLOG-POST-LIST:END -->
