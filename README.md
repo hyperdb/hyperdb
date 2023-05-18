@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-227｜A - Last Card](https://zenn.dev/hyperdb/articles/e1dbcf0f2e8bc6)
+- [［AtCoder］ABC-227｜B - KEYENCE building](https://zenn.dev/hyperdb/articles/5ac52b584b8b51)
 - [［AtCoder］ABC-226｜B - Counting Arrays](https://zenn.dev/hyperdb/articles/91eab5f42dc9c9)
 - [［AtCoder］ABC-226｜A - Round decimals](https://zenn.dev/hyperdb/articles/1a8e79aa412ea0)
 - [［AtCoder］ABC-225｜B - Star or Not](https://zenn.dev/hyperdb/articles/798ea3cba60ea1)
-- [［AtCoder］ABC-225｜A - Distinct Strings](https://zenn.dev/hyperdb/articles/059bac02447217)
-- [［AtCoder］ABC-224｜A - Tires](https://zenn.dev/hyperdb/articles/e3722c9af92207)
 <!-- BLOG-POST-LIST:END -->
