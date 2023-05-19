@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-228｜B - Takahashi&#39;s Secret](https://zenn.dev/hyperdb/articles/5727f6b3f44e82)
+- [［AtCoder］ABC-228｜A - On and Off](https://zenn.dev/hyperdb/articles/53c761314aa95e)
 - [［AtCoder］ABC-227｜A - Last Card](https://zenn.dev/hyperdb/articles/e1dbcf0f2e8bc6)
 - [［AtCoder］ABC-227｜B - KEYENCE building](https://zenn.dev/hyperdb/articles/5ac52b584b8b51)
 - [［AtCoder］ABC-226｜B - Counting Arrays](https://zenn.dev/hyperdb/articles/91eab5f42dc9c9)
-- [［AtCoder］ABC-226｜A - Round decimals](https://zenn.dev/hyperdb/articles/1a8e79aa412ea0)
-- [［AtCoder］ABC-225｜B - Star or Not](https://zenn.dev/hyperdb/articles/798ea3cba60ea1)
 <!-- BLOG-POST-LIST:END -->
