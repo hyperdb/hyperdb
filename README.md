@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-232｜B - Caesar Cipher](https://zenn.dev/hyperdb/articles/45a48b94e704af)
+- [［AtCoder］ABC-232｜A - QQ solver](https://zenn.dev/hyperdb/articles/2944556eba10c9)
 - [［AtCoder］ABC-231｜B - Election](https://zenn.dev/hyperdb/articles/eb106af67e8b3c)
 - [［AtCoder］ABC-231｜A - Water Pressure](https://zenn.dev/hyperdb/articles/7e70684d5462ea)
 - [［AtCoder］ABC-230｜B - Triple Metre](https://zenn.dev/hyperdb/articles/b5ca85154765ff)
-- [［AtCoder］ABC-230｜A - AtCoder Quiz 3](https://zenn.dev/hyperdb/articles/a476675e59d17e)
-- [［AtCoder］ABC-229｜A - First Grid](https://zenn.dev/hyperdb/articles/ee8dd263c6a57d)
 <!-- BLOG-POST-LIST:END -->
