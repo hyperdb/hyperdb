@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-233｜A - 10yen Stamp](https://zenn.dev/hyperdb/articles/8f10aa10e61737)
+- [［AtCoder］ABC-233｜B - A Reverse](https://zenn.dev/hyperdb/articles/4e31352c50da20)
 - [［AtCoder］ABC-232｜B - Caesar Cipher](https://zenn.dev/hyperdb/articles/45a48b94e704af)
 - [［AtCoder］ABC-232｜A - QQ solver](https://zenn.dev/hyperdb/articles/2944556eba10c9)
 - [［AtCoder］ABC-231｜B - Election](https://zenn.dev/hyperdb/articles/eb106af67e8b3c)
-- [［AtCoder］ABC-231｜A - Water Pressure](https://zenn.dev/hyperdb/articles/7e70684d5462ea)
-- [［AtCoder］ABC-230｜B - Triple Metre](https://zenn.dev/hyperdb/articles/b5ca85154765ff)
 <!-- BLOG-POST-LIST:END -->
