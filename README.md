@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-238｜A - Exponential or Quadratic](https://zenn.dev/hyperdb/articles/d1439257f2538d)
+- [［AtCoder］ABC-238｜B - Pizza](https://zenn.dev/hyperdb/articles/6ca881dcd2dafe)
 - [［AtCoder］ABC-237｜B - Matrix Transposition](https://zenn.dev/hyperdb/articles/b687ce5a9cabf5)
 - [［AtCoder］ABC-237｜A - Not Overflow](https://zenn.dev/hyperdb/articles/7813c4b452e247)
 - [［AtCoder］ABC-236｜A - chukodai](https://zenn.dev/hyperdb/articles/393e1ed8089ca1)
-- [［AtCoder］ABC-236｜B - Who is missing?](https://zenn.dev/hyperdb/articles/004e159c3e8d8c)
-- [［AtCoder］ABC-235｜B - Climbing Takahashi](https://zenn.dev/hyperdb/articles/f01fb47ce8a007)
 <!-- BLOG-POST-LIST:END -->
