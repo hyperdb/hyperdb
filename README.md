@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-241｜B - Pasta](https://zenn.dev/hyperdb/articles/d5ecf4cdb7b236)
+- [［AtCoder］ABC-241｜A - Digit Machine](https://zenn.dev/hyperdb/articles/8fb4920b86cc6f)
 - [［AtCoder］ABC-240｜A - Edge Checker](https://zenn.dev/hyperdb/articles/ed0adbae811edc)
 - [［AtCoder］ABC-240｜B - Count Distinct Integers](https://zenn.dev/hyperdb/articles/16fc207e8354ef)
 - [［AtCoder］ABC-239｜B - Integer Division](https://zenn.dev/hyperdb/articles/6fc7e1b3a07a59)
-- [［AtCoder］ABC-239｜A - Horizon](https://zenn.dev/hyperdb/articles/2264b43bfa53e7)
-- [［AtCoder］ABC-238｜A - Exponential or Quadratic](https://zenn.dev/hyperdb/articles/d1439257f2538d)
 <!-- BLOG-POST-LIST:END -->
