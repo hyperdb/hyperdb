@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-244｜A - Last Letter](https://zenn.dev/hyperdb/articles/70461804ade8e4)
+- [［AtCoder］ABC-244｜B - Go Straight and Turn Right](https://zenn.dev/hyperdb/articles/27f38486626452)
 - [［AtCoder］ABC-243｜B - Hit and Blow](https://zenn.dev/hyperdb/articles/d37328d0c5ca4d)
 - [［AtCoder］ABC-243｜A - Shampoo](https://zenn.dev/hyperdb/articles/6eaf4ac9c2401c)
 - [［AtCoder］ABC-242｜B - Minimize Ordering](https://zenn.dev/hyperdb/articles/9a656f714fb506)
-- [［AtCoder］ABC-242｜A - T-shirt](https://zenn.dev/hyperdb/articles/84d04ed7e8b35a)
-- [［AtCoder］ABC-241｜B - Pasta](https://zenn.dev/hyperdb/articles/d5ecf4cdb7b236)
 <!-- BLOG-POST-LIST:END -->
