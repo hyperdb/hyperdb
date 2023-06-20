@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-248｜B - Slimes](https://zenn.dev/hyperdb/articles/c796166b475fbc)
+- [［AtCoder］ABC-248｜A - Lacked Number](https://zenn.dev/hyperdb/articles/73bf3080df52b8)
 - [［AtCoder］ABC-247｜A - Move Right](https://zenn.dev/hyperdb/articles/acdfbcab16029a)
 - [［AtCoder］ABC-247｜B - Unique Nicknames](https://zenn.dev/hyperdb/articles/4fa1fe673729e7)
 - [［AtCoder］ABC-246｜B - Get Closer](https://zenn.dev/hyperdb/articles/f06ff5d625ab2f)
-- [［AtCoder］ABC-246｜A - Four Points](https://zenn.dev/hyperdb/articles/1ac2048733c9d8)
-- [［AtCoder］ABC-245｜B - Mex](https://zenn.dev/hyperdb/articles/c71de0e05fa9ed)
 <!-- BLOG-POST-LIST:END -->
