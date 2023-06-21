@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-249｜B - Perfect String](https://zenn.dev/hyperdb/articles/50d65bc1d83fa0)
+- [［AtCoder］ABC-249｜A - Jogging](https://zenn.dev/hyperdb/articles/0354639afecd99)
 - [［AtCoder］ABC-248｜B - Slimes](https://zenn.dev/hyperdb/articles/c796166b475fbc)
 - [［AtCoder］ABC-248｜A - Lacked Number](https://zenn.dev/hyperdb/articles/73bf3080df52b8)
 - [［AtCoder］ABC-247｜A - Move Right](https://zenn.dev/hyperdb/articles/acdfbcab16029a)
-- [［AtCoder］ABC-247｜B - Unique Nicknames](https://zenn.dev/hyperdb/articles/4fa1fe673729e7)
-- [［AtCoder］ABC-246｜B - Get Closer](https://zenn.dev/hyperdb/articles/f06ff5d625ab2f)
 <!-- BLOG-POST-LIST:END -->
