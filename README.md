@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-251｜B - At Most 3 &lpar;Judge ver.&rpar;](https://zenn.dev/hyperdb/articles/8e00a75cb73414)
+- [［AtCoder］ABC-251｜A - Six Characters](https://zenn.dev/hyperdb/articles/53c75cb245281f)
 - [［AtCoder］ABC-250｜B - Enlarged Checker Board](https://zenn.dev/hyperdb/articles/de32278828344a)
 - [［AtCoder］ABC-250｜A - Adjacent Squares](https://zenn.dev/hyperdb/articles/3aa1cd8fc54066)
 - [［AtCoder］ABC-249｜B - Perfect String](https://zenn.dev/hyperdb/articles/50d65bc1d83fa0)
-- [［AtCoder］ABC-249｜A - Jogging](https://zenn.dev/hyperdb/articles/0354639afecd99)
-- [［AtCoder］ABC-248｜B - Slimes](https://zenn.dev/hyperdb/articles/c796166b475fbc)
 <!-- BLOG-POST-LIST:END -->
