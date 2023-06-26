@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-252｜B - Takahashi&#39;s Failure](https://zenn.dev/hyperdb/articles/dd63e4dcb0c79d)
+- [［AtCoder］ABC-252｜A - ASCII code](https://zenn.dev/hyperdb/articles/aed58970ec338b)
 - [［AtCoder］ABC-251｜B - At Most 3 &lpar;Judge ver.&rpar;](https://zenn.dev/hyperdb/articles/8e00a75cb73414)
 - [［AtCoder］ABC-251｜A - Six Characters](https://zenn.dev/hyperdb/articles/53c75cb245281f)
 - [［AtCoder］ABC-250｜B - Enlarged Checker Board](https://zenn.dev/hyperdb/articles/de32278828344a)
-- [［AtCoder］ABC-250｜A - Adjacent Squares](https://zenn.dev/hyperdb/articles/3aa1cd8fc54066)
-- [［AtCoder］ABC-249｜B - Perfect String](https://zenn.dev/hyperdb/articles/50d65bc1d83fa0)
 <!-- BLOG-POST-LIST:END -->
