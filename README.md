@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-254｜A - Last Two Digits](https://zenn.dev/hyperdb/articles/9959685dd9e862)
+- [［AtCoder］ABC-254｜B - Practical Computing](https://zenn.dev/hyperdb/articles/334786dd3084ed)
 - [［AtCoder］ABC-253｜B - Distance Between Tokens](https://zenn.dev/hyperdb/articles/fefccde6ea7fd6)
 - [［AtCoder］ABC-253｜A - Median?](https://zenn.dev/hyperdb/articles/5fc9ec36197196)
 - [［AtCoder］ABC-252｜B - Takahashi&#39;s Failure](https://zenn.dev/hyperdb/articles/dd63e4dcb0c79d)
-- [［AtCoder］ABC-252｜A - ASCII code](https://zenn.dev/hyperdb/articles/aed58970ec338b)
-- [［AtCoder］ABC-251｜B - At Most 3 &lpar;Judge ver.&rpar;](https://zenn.dev/hyperdb/articles/8e00a75cb73414)
 <!-- BLOG-POST-LIST:END -->
