@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-256｜B - Batters](https://zenn.dev/hyperdb/articles/e53b87442800d1)
+- [［AtCoder］ABC-256｜A - 2^N](https://zenn.dev/hyperdb/articles/6361434b566dd3)
 - [［AtCoder］ABC-255｜B - Light It Up](https://zenn.dev/hyperdb/articles/e3b2d71b198a01)
 - [［AtCoder］ABC-255｜A - You should output ARC, though this is ABC.](https://zenn.dev/hyperdb/articles/5ea8b9cbe99d60)
 - [［AtCoder］ABC-254｜A - Last Two Digits](https://zenn.dev/hyperdb/articles/9959685dd9e862)
-- [［AtCoder］ABC-254｜B - Practical Computing](https://zenn.dev/hyperdb/articles/334786dd3084ed)
-- [［AtCoder］ABC-253｜B - Distance Between Tokens](https://zenn.dev/hyperdb/articles/fefccde6ea7fd6)
 <!-- BLOG-POST-LIST:END -->
