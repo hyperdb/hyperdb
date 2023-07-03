@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
+- [［AtCoder］ABC-257｜A - A to Z String 2](https://zenn.dev/hyperdb/articles/0f457f6354eda2)
 - [［AtCoder］ABC-256｜B - Batters](https://zenn.dev/hyperdb/articles/e53b87442800d1)
 - [［AtCoder］ABC-256｜A - 2^N](https://zenn.dev/hyperdb/articles/6361434b566dd3)
 - [［AtCoder］ABC-255｜B - Light It Up](https://zenn.dev/hyperdb/articles/e3b2d71b198a01)
-- [［AtCoder］ABC-255｜A - You should output ARC, though this is ABC.](https://zenn.dev/hyperdb/articles/5ea8b9cbe99d60)
-- [［AtCoder］ABC-254｜A - Last Two Digits](https://zenn.dev/hyperdb/articles/9959685dd9e862)
 <!-- BLOG-POST-LIST:END -->
