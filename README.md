@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
+- [［AtCoder］ABC-258｜A - When?](https://zenn.dev/hyperdb/articles/5dbfdf2bf1aac5)
 - [［AtCoder］ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
 - [［AtCoder］ABC-257｜A - A to Z String 2](https://zenn.dev/hyperdb/articles/0f457f6354eda2)
 - [［AtCoder］ABC-256｜B - Batters](https://zenn.dev/hyperdb/articles/e53b87442800d1)
-- [［AtCoder］ABC-256｜A - 2^N](https://zenn.dev/hyperdb/articles/6361434b566dd3)
-- [［AtCoder］ABC-255｜B - Light It Up](https://zenn.dev/hyperdb/articles/e3b2d71b198a01)
 <!-- BLOG-POST-LIST:END -->
