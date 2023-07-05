@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-259｜A - Growth Record](https://zenn.dev/hyperdb/articles/3741083278bce9)
+- [［AtCoder］ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
 - [［AtCoder］ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
 - [［AtCoder］ABC-258｜A - When?](https://zenn.dev/hyperdb/articles/5dbfdf2bf1aac5)
 - [［AtCoder］ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
-- [［AtCoder］ABC-257｜A - A to Z String 2](https://zenn.dev/hyperdb/articles/0f457f6354eda2)
-- [［AtCoder］ABC-256｜B - Batters](https://zenn.dev/hyperdb/articles/e53b87442800d1)
 <!-- BLOG-POST-LIST:END -->
