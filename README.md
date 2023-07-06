@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-260｜B - Better Students Are Needed!](https://zenn.dev/hyperdb/articles/4714ab6806cb4f)
+- [［AtCoder］ABC-260｜A - A Unique Letter](https://zenn.dev/hyperdb/articles/263ebb79f0bf6f)
 - [［AtCoder］ABC-259｜A - Growth Record](https://zenn.dev/hyperdb/articles/3741083278bce9)
 - [［AtCoder］ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
 - [［AtCoder］ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
-- [［AtCoder］ABC-258｜A - When?](https://zenn.dev/hyperdb/articles/5dbfdf2bf1aac5)
-- [［AtCoder］ABC-257｜B - 1D Pawn](https://zenn.dev/hyperdb/articles/28888942bbb745)
 <!-- BLOG-POST-LIST:END -->
