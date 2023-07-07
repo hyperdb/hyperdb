@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-261｜B - Tournament Result](https://zenn.dev/hyperdb/articles/9982e0e7e440b2)
+- [［AtCoder］ABC-261｜A - Intersection](https://zenn.dev/hyperdb/articles/57eea2edf555b8)
 - [［AtCoder］ABC-260｜B - Better Students Are Needed!](https://zenn.dev/hyperdb/articles/4714ab6806cb4f)
 - [［AtCoder］ABC-260｜A - A Unique Letter](https://zenn.dev/hyperdb/articles/263ebb79f0bf6f)
 - [［AtCoder］ABC-259｜A - Growth Record](https://zenn.dev/hyperdb/articles/3741083278bce9)
-- [［AtCoder］ABC-259｜B - Counterclockwise Rotation](https://zenn.dev/hyperdb/articles/057689b9f095d0)
-- [［AtCoder］ABC-258｜B - Number Box](https://zenn.dev/hyperdb/articles/d8ad36dfd3ac00)
 <!-- BLOG-POST-LIST:END -->
