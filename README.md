@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-263｜B - Ancestor](https://zenn.dev/hyperdb/articles/610741ee3541e8)
+- [［AtCoder］ABC-263｜A - Full House](https://zenn.dev/hyperdb/articles/05f7f07943065f)
 - [［AtCoder］ABC-262｜A - World Cup](https://zenn.dev/hyperdb/articles/9f7834a25a5e7b)
 - [［AtCoder］ABC-262｜B - Triangle &lpar;Easier&rpar;](https://zenn.dev/hyperdb/articles/5458abf3e53679)
 - [［AtCoder］ABC-261｜B - Tournament Result](https://zenn.dev/hyperdb/articles/9982e0e7e440b2)
-- [［AtCoder］ABC-261｜A - Intersection](https://zenn.dev/hyperdb/articles/57eea2edf555b8)
-- [［AtCoder］ABC-260｜B - Better Students Are Needed!](https://zenn.dev/hyperdb/articles/4714ab6806cb4f)
 <!-- BLOG-POST-LIST:END -->
