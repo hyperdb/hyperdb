@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-265｜B - Explore](https://zenn.dev/hyperdb/articles/be5f15d75a99c7)
+- [［AtCoder］ABC-265｜A - Apple](https://zenn.dev/hyperdb/articles/6fb70cab678636)
 - [［AtCoder］ABC-264｜B - Nice Grid](https://zenn.dev/hyperdb/articles/30a2949ebd7459)
 - [［AtCoder］ABC-264｜A -&#39;2atcoder&#39;.substr&lpar;&rpar;](https://zenn.dev/hyperdb/articles/2c46d1a8319ec3)
 - [［AtCoder］ABC-263｜B - Ancestor](https://zenn.dev/hyperdb/articles/610741ee3541e8)
-- [［AtCoder］ABC-263｜A - Full House](https://zenn.dev/hyperdb/articles/05f7f07943065f)
-- [［AtCoder］ABC-262｜A - World Cup](https://zenn.dev/hyperdb/articles/9f7834a25a5e7b)
 <!-- BLOG-POST-LIST:END -->
