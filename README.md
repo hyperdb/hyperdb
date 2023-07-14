@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-266｜B - Modulo Number](https://zenn.dev/hyperdb/articles/c981b2fe1ce0c9)
+- [［AtCoder］ABC-266｜A - Middle Letter](https://zenn.dev/hyperdb/articles/06b758b35e9ce5)
 - [［AtCoder］ABC-265｜B - Explore](https://zenn.dev/hyperdb/articles/be5f15d75a99c7)
 - [［AtCoder］ABC-265｜A - Apple](https://zenn.dev/hyperdb/articles/6fb70cab678636)
 - [［AtCoder］ABC-264｜B - Nice Grid](https://zenn.dev/hyperdb/articles/30a2949ebd7459)
-- [［AtCoder］ABC-264｜A -&#39;2atcoder&#39;.substr&lpar;&rpar;](https://zenn.dev/hyperdb/articles/2c46d1a8319ec3)
-- [［AtCoder］ABC-263｜B - Ancestor](https://zenn.dev/hyperdb/articles/610741ee3541e8)
 <!-- BLOG-POST-LIST:END -->
