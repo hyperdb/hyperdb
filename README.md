@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-267｜A - Saturday](https://zenn.dev/hyperdb/articles/913ef1d7591e3b)
+- [［AtCoder］ABC-267｜B - Split?](https://zenn.dev/hyperdb/articles/07b09b5d3cc8d6)
 - [［AtCoder］ABC-266｜B - Modulo Number](https://zenn.dev/hyperdb/articles/c981b2fe1ce0c9)
 - [［AtCoder］ABC-266｜A - Middle Letter](https://zenn.dev/hyperdb/articles/06b758b35e9ce5)
 - [［AtCoder］ABC-265｜B - Explore](https://zenn.dev/hyperdb/articles/be5f15d75a99c7)
-- [［AtCoder］ABC-265｜A - Apple](https://zenn.dev/hyperdb/articles/6fb70cab678636)
-- [［AtCoder］ABC-264｜B - Nice Grid](https://zenn.dev/hyperdb/articles/30a2949ebd7459)
 <!-- BLOG-POST-LIST:END -->
