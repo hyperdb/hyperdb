@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-269｜B - Rectangle Detection](https://zenn.dev/hyperdb/articles/2682bc514ef2ce)
+- [［AtCoder］ABC-269｜A - Anyway Takahashi](https://zenn.dev/hyperdb/articles/0499eba33f67ec)
 - [［AtCoder］ABC-268｜B - Prefix?](https://zenn.dev/hyperdb/articles/fe2c94bf23771f)
 - [［AtCoder］ABC-268｜A - Five Integers](https://zenn.dev/hyperdb/articles/5468c04eb52f0f)
 - [［AtCoder］ABC-267｜A - Saturday](https://zenn.dev/hyperdb/articles/913ef1d7591e3b)
-- [［AtCoder］ABC-267｜B - Split?](https://zenn.dev/hyperdb/articles/07b09b5d3cc8d6)
-- [［AtCoder］ABC-266｜B - Modulo Number](https://zenn.dev/hyperdb/articles/c981b2fe1ce0c9)
 <!-- BLOG-POST-LIST:END -->
