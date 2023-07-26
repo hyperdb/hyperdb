@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-272｜B - Everyone is Friends](https://zenn.dev/hyperdb/articles/796178b37b3759)
+- [［AtCoder］ABC-272｜A - Integer Sum](https://zenn.dev/hyperdb/articles/5ef0737e701621)
 - [［AtCoder］ABC-271｜B - Maintain Multiple Sequences](https://zenn.dev/hyperdb/articles/b0937269e64815)
 - [［AtCoder］ABC-271｜A - 484558](https://zenn.dev/hyperdb/articles/42c11236a8604e)
 - [［AtCoder］ABC-270｜A - 1-2-4 Test](https://zenn.dev/hyperdb/articles/97bd1b0daf96f5)
-- [［AtCoder］ABC-270｜B - Hammer](https://zenn.dev/hyperdb/articles/62453f2b3ae522)
-- [［AtCoder］ABC-269｜B - Rectangle Detection](https://zenn.dev/hyperdb/articles/2682bc514ef2ce)
 <!-- BLOG-POST-LIST:END -->
