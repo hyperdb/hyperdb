@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-273｜A Recursive Function](https://zenn.dev/hyperdb/articles/ff69ca6087808a)
+- [［AtCoder］ABC-273｜B - Broken Rounding](https://zenn.dev/hyperdb/articles/2c86e4994dd123)
 - [［AtCoder］ABC-272｜B - Everyone is Friends](https://zenn.dev/hyperdb/articles/796178b37b3759)
 - [［AtCoder］ABC-272｜A - Integer Sum](https://zenn.dev/hyperdb/articles/5ef0737e701621)
 - [［AtCoder］ABC-271｜B - Maintain Multiple Sequences](https://zenn.dev/hyperdb/articles/b0937269e64815)
-- [［AtCoder］ABC-271｜A - 484558](https://zenn.dev/hyperdb/articles/42c11236a8604e)
-- [［AtCoder］ABC-270｜A - 1-2-4 Test](https://zenn.dev/hyperdb/articles/97bd1b0daf96f5)
 <!-- BLOG-POST-LIST:END -->
