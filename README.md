@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-274｜A - Batting Average](https://zenn.dev/hyperdb/articles/e91c7834a02f29)
+- [［AtCoder］ABC-274｜B - Line Sensor](https://zenn.dev/hyperdb/articles/37fa09df54473d)
 - [［AtCoder］ABC-273｜A Recursive Function](https://zenn.dev/hyperdb/articles/ff69ca6087808a)
 - [［AtCoder］ABC-273｜B - Broken Rounding](https://zenn.dev/hyperdb/articles/2c86e4994dd123)
 - [［AtCoder］ABC-272｜B - Everyone is Friends](https://zenn.dev/hyperdb/articles/796178b37b3759)
-- [［AtCoder］ABC-272｜A - Integer Sum](https://zenn.dev/hyperdb/articles/5ef0737e701621)
-- [［AtCoder］ABC-271｜B - Maintain Multiple Sequences](https://zenn.dev/hyperdb/articles/b0937269e64815)
 <!-- BLOG-POST-LIST:END -->
