@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-277｜A - ^{-1}](https://zenn.dev/hyperdb/articles/db2354e1072258)
+- [［AtCoder］ABC-277｜B - Playing Cards Validation](https://zenn.dev/hyperdb/articles/a80efef5111bc5)
 - [［AtCoder］ABC-276｜B - Adjacency List](https://zenn.dev/hyperdb/articles/8e3c4f5eeabf8d)
 - [［AtCoder］ABC-276｜A - Rightmost](https://zenn.dev/hyperdb/articles/65567fc9f436fc)
 - [［AtCoder］ABC-275｜B - ABC-DEF](https://zenn.dev/hyperdb/articles/43e8e5b916b7b1)
-- [［AtCoder］ABC-275｜A - Find Takahashi](https://zenn.dev/hyperdb/articles/1642b68501910c)
-- [［AtCoder］ABC-274｜A - Batting Average](https://zenn.dev/hyperdb/articles/e91c7834a02f29)
 <!-- BLOG-POST-LIST:END -->
