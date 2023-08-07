@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-279｜A - wwwvvvvvv](https://zenn.dev/hyperdb/articles/91367b290f84eb)
+- [［AtCoder］ABC-279｜B - LOOKUP](https://zenn.dev/hyperdb/articles/31e47fc7e2f34e)
 - [［AtCoder］ABC-278｜B - Misjudge the Time](https://zenn.dev/hyperdb/articles/fd7dd6dc2fb1c0)
 - [［AtCoder］ABC-278｜A - Shift](https://zenn.dev/hyperdb/articles/32d96c950b2a5d)
 - [［AtCoder］ABC-277｜A - ^{-1}](https://zenn.dev/hyperdb/articles/db2354e1072258)
-- [［AtCoder］ABC-277｜B - Playing Cards Validation](https://zenn.dev/hyperdb/articles/a80efef5111bc5)
-- [［AtCoder］ABC-276｜B - Adjacency List](https://zenn.dev/hyperdb/articles/8e3c4f5eeabf8d)
 <!-- BLOG-POST-LIST:END -->
