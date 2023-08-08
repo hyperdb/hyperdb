@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-280｜A - Pawn on a Grid](https://zenn.dev/hyperdb/articles/fa31d212f0a19e)
+- [［AtCoder］ABC-280｜B - Inverse Prefix Sum](https://zenn.dev/hyperdb/articles/a55b4a9963160a)
 - [［AtCoder］ABC-279｜A - wwwvvvvvv](https://zenn.dev/hyperdb/articles/91367b290f84eb)
 - [［AtCoder］ABC-279｜B - LOOKUP](https://zenn.dev/hyperdb/articles/31e47fc7e2f34e)
 - [［AtCoder］ABC-278｜B - Misjudge the Time](https://zenn.dev/hyperdb/articles/fd7dd6dc2fb1c0)
-- [［AtCoder］ABC-278｜A - Shift](https://zenn.dev/hyperdb/articles/32d96c950b2a5d)
-- [［AtCoder］ABC-277｜A - ^{-1}](https://zenn.dev/hyperdb/articles/db2354e1072258)
 <!-- BLOG-POST-LIST:END -->
