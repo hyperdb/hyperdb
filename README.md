@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
+- [［AtCoder］ABC-284｜A - Sequence of Strings](https://zenn.dev/hyperdb/articles/526538c9f9885e)
 - [［AtCoder］ABC-283｜B - First Query Problem](https://zenn.dev/hyperdb/articles/840d5a033cb0d9)
 - [［AtCoder］ABC-283｜A - Power](https://zenn.dev/hyperdb/articles/1c5121eb9b9f24)
 - [［AtCoder］ABC-282｜B - Let&#39;s Get a Perfect Score](https://zenn.dev/hyperdb/articles/8d0d9e8035461e)
-- [［AtCoder］ABC-282｜A - Generalized ABC](https://zenn.dev/hyperdb/articles/3892c3b453b3f9)
-- [［AtCoder］ABC-281｜A - Count Down](https://zenn.dev/hyperdb/articles/dec79f345830b2)
 <!-- BLOG-POST-LIST:END -->
