@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-286｜B - Cat](https://zenn.dev/hyperdb/articles/84f638f4bf4f25)
+- [［AtCoder］ABC-286｜A - Range Swap](https://zenn.dev/hyperdb/articles/6fd053d1bf865b)
 - [［AtCoder］ABC-285｜B - Longest Uncommon Prefix](https://zenn.dev/hyperdb/articles/cce1a3f76f31fb)
 - [［AtCoder］ABC-285｜A - Edge Checker 2](https://zenn.dev/hyperdb/articles/c17cfaded6ee93)
 - [［AtCoder］ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
-- [［AtCoder］ABC-284｜A - Sequence of Strings](https://zenn.dev/hyperdb/articles/526538c9f9885e)
-- [［AtCoder］ABC-283｜B - First Query Problem](https://zenn.dev/hyperdb/articles/840d5a033cb0d9)
 <!-- BLOG-POST-LIST:END -->
