@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-287｜B - Postal Card](https://zenn.dev/hyperdb/articles/9e89a6c3f82150)
+- [［AtCoder］ABC-287｜A - Majority](https://zenn.dev/hyperdb/articles/35c1e129b376a8)
 - [［AtCoder］ABC-286｜B - Cat](https://zenn.dev/hyperdb/articles/84f638f4bf4f25)
 - [［AtCoder］ABC-286｜A - Range Swap](https://zenn.dev/hyperdb/articles/6fd053d1bf865b)
 - [［AtCoder］ABC-285｜B - Longest Uncommon Prefix](https://zenn.dev/hyperdb/articles/cce1a3f76f31fb)
-- [［AtCoder］ABC-285｜A - Edge Checker 2](https://zenn.dev/hyperdb/articles/c17cfaded6ee93)
-- [［AtCoder］ABC-284｜B - Multi Test Cases](https://zenn.dev/hyperdb/articles/b5e79f26954c32)
 <!-- BLOG-POST-LIST:END -->
