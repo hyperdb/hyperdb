@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-289｜B - レ](https://zenn.dev/hyperdb/articles/957a8659f4eba1)
+- [［AtCoder］ABC-289｜A - flip](https://zenn.dev/hyperdb/articles/27e3854b7e5076)
 - [［AtCoder］ABC-288｜A - Many A+B Problems](https://zenn.dev/hyperdb/articles/615e14fbc81650)
 - [［AtCoder］ABC-288｜B - Qualification Contest](https://zenn.dev/hyperdb/articles/2c7b0ec49fabd0)
 - [［AtCoder］ABC-287｜B - Postal Card](https://zenn.dev/hyperdb/articles/9e89a6c3f82150)
-- [［AtCoder］ABC-287｜A - Majority](https://zenn.dev/hyperdb/articles/35c1e129b376a8)
-- [［AtCoder］ABC-286｜B - Cat](https://zenn.dev/hyperdb/articles/84f638f4bf4f25)
 <!-- BLOG-POST-LIST:END -->
