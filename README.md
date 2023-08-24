@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-291｜B - Trimmed Mean](https://zenn.dev/hyperdb/articles/91f1cc180318d5)
+- [［AtCoder］ABC-291｜A - camel Case](https://zenn.dev/hyperdb/articles/7e5ed3e2d65db7)
 - [［AtCoder］ABC-290｜B - Qual B](https://zenn.dev/hyperdb/articles/c9734bf6ad7c0a)
 - [［AtCoder］ABC-290｜A - Contest Result](https://zenn.dev/hyperdb/articles/67aa7c83eb6068)
 - [［AtCoder］ABC-289｜B - レ](https://zenn.dev/hyperdb/articles/957a8659f4eba1)
-- [［AtCoder］ABC-289｜A - flip](https://zenn.dev/hyperdb/articles/27e3854b7e5076)
-- [［AtCoder］ABC-288｜A - Many A+B Problems](https://zenn.dev/hyperdb/articles/615e14fbc81650)
 <!-- BLOG-POST-LIST:END -->
