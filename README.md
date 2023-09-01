@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-297｜B - chess960](https://zenn.dev/hyperdb/articles/ce2d0f2fe9dc6f)
+- [［AtCoder］ABC-297｜A - Double Click](https://zenn.dev/hyperdb/articles/2d8ca84bdb66f7)
 - [［AtCoder］ABC-296｜A - Alternately](https://zenn.dev/hyperdb/articles/bdd8a22ba9d6f9)
 - [［AtCoder］ABC-296｜B - Chessboard](https://zenn.dev/hyperdb/articles/95d1b7b3b2c836)
 - [［AtCoder］ABC-295｜A - Probably English](https://zenn.dev/hyperdb/articles/a3bbb772add1f8)
-- [［AtCoder］ABC-295｜B - Bombs](https://zenn.dev/hyperdb/articles/664232fa21aa5b)
-- [［AtCoder］ABC-294｜A - Filter](https://zenn.dev/hyperdb/articles/fb995e930cf0c1)
 <!-- BLOG-POST-LIST:END -->
