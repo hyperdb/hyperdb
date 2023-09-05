@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-299｜B - Trick Taking](https://zenn.dev/hyperdb/articles/daa9c8ec47568a)
+- [［AtCoder］ABC-299｜A - Treasure Chest](https://zenn.dev/hyperdb/articles/75aa806a5a4a1d)
 - [［AtCoder］ABC-298｜A - Job Interview](https://zenn.dev/hyperdb/articles/b2a0f44d3e6bc7)
 - [［AtCoder］ABC-298｜B - Coloring Matrix](https://zenn.dev/hyperdb/articles/6144f611f7eadb)
 - [［AtCoder］ABC-297｜B - chess960](https://zenn.dev/hyperdb/articles/ce2d0f2fe9dc6f)
-- [［AtCoder］ABC-297｜A - Double Click](https://zenn.dev/hyperdb/articles/2d8ca84bdb66f7)
-- [［AtCoder］ABC-296｜A - Alternately](https://zenn.dev/hyperdb/articles/bdd8a22ba9d6f9)
 <!-- BLOG-POST-LIST:END -->
