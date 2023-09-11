@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-302｜A - Attack](https://zenn.dev/hyperdb/articles/bfd92e1cea3b76)
+- [［AtCoder］ABC-302｜B - Find snuke](https://zenn.dev/hyperdb/articles/af130ee6bf2127)
 - [［AtCoder］ABC-301｜A - Overall Winner](https://zenn.dev/hyperdb/articles/e5cd8f33349121)
 - [［AtCoder］ABC-301｜B - Fill the Gaps](https://zenn.dev/hyperdb/articles/646f8ed4b4f3a8)
 - [［AtCoder］ABC-300｜B - Same Map in the RPG World](https://zenn.dev/hyperdb/articles/dcb0e8eb956501)
-- [［AtCoder］ABC-300｜A - N-choice question](https://zenn.dev/hyperdb/articles/6083bb53238640)
-- [［AtCoder］ABC-299｜B - Trick Taking](https://zenn.dev/hyperdb/articles/daa9c8ec47568a)
 <!-- BLOG-POST-LIST:END -->
