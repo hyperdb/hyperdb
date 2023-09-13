@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-304｜A - First Player](https://zenn.dev/hyperdb/articles/b042faf0eb933f)
+- [［AtCoder］ABC-304｜B - Subscribers](https://zenn.dev/hyperdb/articles/937d0041cfeffe)
 - [［AtCoder］ABC-303｜A - Similar String](https://zenn.dev/hyperdb/articles/b050ac627bfe63)
 - [［AtCoder］ABC-303｜B - Discord](https://zenn.dev/hyperdb/articles/03c9e079fbff32)
 - [［AtCoder］ABC-302｜A - Attack](https://zenn.dev/hyperdb/articles/bfd92e1cea3b76)
-- [［AtCoder］ABC-302｜B - Find snuke](https://zenn.dev/hyperdb/articles/af130ee6bf2127)
-- [［AtCoder］ABC-301｜A - Overall Winner](https://zenn.dev/hyperdb/articles/e5cd8f33349121)
 <!-- BLOG-POST-LIST:END -->
