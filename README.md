@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-307｜B - racecar](https://zenn.dev/hyperdb/articles/f5a319586ffcf0)
+- [［AtCoder］ABC-307｜A - Weekly Records](https://zenn.dev/hyperdb/articles/8903e896f6e2a2)
 - [［AtCoder］ABC-306｜B - Base 2](https://zenn.dev/hyperdb/articles/b75844912efd6e)
 - [［AtCoder］ABC-306｜A - Echo](https://zenn.dev/hyperdb/articles/6bf2e05726cd46)
 - [［AtCoder］ABC-305｜A - Water Station](https://zenn.dev/hyperdb/articles/f9734172210f8e)
-- [［AtCoder］ABC-305｜B - ABCDEFG](https://zenn.dev/hyperdb/articles/d1e5c40c4ea5ac)
-- [［AtCoder］ABC-304｜A - First Player](https://zenn.dev/hyperdb/articles/b042faf0eb933f)
 <!-- BLOG-POST-LIST:END -->
