@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-312｜A - Chord](https://zenn.dev/hyperdb/articles/cb44aff7b662bd)
+- [［AtCoder］ABC-312｜B - TaK Code](https://zenn.dev/hyperdb/articles/b5f4d1e88272fa)
 - [［AtCoder］ABC-311｜B - Vacation Together](https://zenn.dev/hyperdb/articles/9d3e5ddee2b33f)
 - [［AtCoder］ABC-311｜A - First ABC](https://zenn.dev/hyperdb/articles/59ca91228a3158)
 - [［AtCoder］ABC-310｜B - Strictly Superior](https://zenn.dev/hyperdb/articles/5a1fb5c71078c2)
-- [［AtCoder］ABC-310｜A - Order Something Else](https://zenn.dev/hyperdb/articles/0cbb4c118e2ca4)
-- [［AtCoder］ABC-309｜A - Nine](https://zenn.dev/hyperdb/articles/91e153865fdc9a)
 <!-- BLOG-POST-LIST:END -->
