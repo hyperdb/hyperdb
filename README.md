@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
+- [［AtCoder］ABC-313｜A - To Be Saikyo](https://zenn.dev/hyperdb/articles/54b5f1cfe5a407)
 - [［AtCoder］ABC-312｜A - Chord](https://zenn.dev/hyperdb/articles/cb44aff7b662bd)
 - [［AtCoder］ABC-312｜B - TaK Code](https://zenn.dev/hyperdb/articles/b5f4d1e88272fa)
 - [［AtCoder］ABC-311｜B - Vacation Together](https://zenn.dev/hyperdb/articles/9d3e5ddee2b33f)
-- [［AtCoder］ABC-311｜A - First ABC](https://zenn.dev/hyperdb/articles/59ca91228a3158)
-- [［AtCoder］ABC-310｜B - Strictly Superior](https://zenn.dev/hyperdb/articles/5a1fb5c71078c2)
 <!-- BLOG-POST-LIST:END -->
