@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-315｜A - tcdr](https://zenn.dev/hyperdb/articles/e3123d9d545c2f)
+- [［AtCoder］ABC-315｜B - The Middle Day](https://zenn.dev/hyperdb/articles/bffa54a5e72b24)
 - [［AtCoder］ABC-314｜B - Roulette](https://zenn.dev/hyperdb/articles/aabd8cf6b8531b)
 - [［AtCoder］ABC-314｜A - 3.14](https://zenn.dev/hyperdb/articles/7b808932e044b3)
 - [［AtCoder］ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
-- [［AtCoder］ABC-313｜A - To Be Saikyo](https://zenn.dev/hyperdb/articles/54b5f1cfe5a407)
-- [［AtCoder］ABC-312｜A - Chord](https://zenn.dev/hyperdb/articles/cb44aff7b662bd)
 <!-- BLOG-POST-LIST:END -->
