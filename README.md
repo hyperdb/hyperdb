@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-317｜B - MissingNo.](https://zenn.dev/hyperdb/articles/dbbaaa1db39f4c)
+- [［AtCoder］ABC-317｜A - Potions](https://zenn.dev/hyperdb/articles/887cef1f3a14f8)
 - [［AtCoder］ABC-315｜A - tcdr](https://zenn.dev/hyperdb/articles/e3123d9d545c2f)
 - [［AtCoder］ABC-315｜B - The Middle Day](https://zenn.dev/hyperdb/articles/bffa54a5e72b24)
 - [［AtCoder］ABC-314｜B - Roulette](https://zenn.dev/hyperdb/articles/aabd8cf6b8531b)
-- [［AtCoder］ABC-314｜A - 3.14](https://zenn.dev/hyperdb/articles/7b808932e044b3)
-- [［AtCoder］ABC-313｜B - Who is Saikyo?](https://zenn.dev/hyperdb/articles/5d0b824fb24082)
 <!-- BLOG-POST-LIST:END -->
