@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-320｜C - Slot Strategy 2 &lpar;Easy&rpar;](https://zenn.dev/hyperdb/articles/c24a804ac30e4f)
 - [［AtCoder］ABC-320｜A - Leyland Number](https://zenn.dev/hyperdb/articles/8a84ecc784b47a)
 - [［AtCoder］ABC-320｜B - Longest Palindrome](https://zenn.dev/hyperdb/articles/1fdaa82f30a397)
 - [［AtCoder］ABC-319｜A - Legendary Players](https://zenn.dev/hyperdb/articles/f0d60808c79988)
 - [［AtCoder］ABC-319｜B - Measure](https://zenn.dev/hyperdb/articles/94903215e001eb)
-- [［AtCoder］ABC-318｜A - Full Moon](https://zenn.dev/hyperdb/articles/2657d97d909f0b)
 <!-- BLOG-POST-LIST:END -->
