@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-321｜B - Cutoff](https://zenn.dev/hyperdb/articles/c676a032e6ec2c)
+- [［AtCoder］ABC-321｜A - 321-like Checker](https://zenn.dev/hyperdb/articles/b155fb3ddb2249)
 - [［AtCoder］ABC-318｜C - Blue Spring](https://zenn.dev/hyperdb/articles/499fee034a89ed)
 - [［AtCoder］ABC-319｜C - False Hope](https://zenn.dev/hyperdb/articles/dc840d20c9066f)
 - [［AtCoder］ABC-320｜C - Slot Strategy 2 &lpar;Easy&rpar;](https://zenn.dev/hyperdb/articles/c24a804ac30e4f)
-- [［AtCoder］ABC-320｜A - Leyland Number](https://zenn.dev/hyperdb/articles/8a84ecc784b47a)
-- [［AtCoder］ABC-320｜B - Longest Palindrome](https://zenn.dev/hyperdb/articles/1fdaa82f30a397)
 <!-- BLOG-POST-LIST:END -->
