@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-313｜C - Approximate Equalization 2](https://zenn.dev/hyperdb/articles/9568f4b8e6e0e6)
 - [［AtCoder］ABC-312｜C - Invisible Hand](https://zenn.dev/hyperdb/articles/6d5e5b969842d7)
 - [［AtCoder］ABC-311｜C - Find it!](https://zenn.dev/hyperdb/articles/40f3afa7efce22)
 - [［AtCoder］ABC-321｜B - Cutoff](https://zenn.dev/hyperdb/articles/c676a032e6ec2c)
 - [［AtCoder］ABC-321｜A - 321-like Checker](https://zenn.dev/hyperdb/articles/b155fb3ddb2249)
-- [［AtCoder］ABC-318｜C - Blue Spring](https://zenn.dev/hyperdb/articles/499fee034a89ed)
 <!-- BLOG-POST-LIST:END -->
