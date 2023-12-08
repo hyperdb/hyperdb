@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-329｜B - Next](https://zenn.dev/hyperdb/articles/a3508767d317b9)
+- [［AtCoder］ABC-329｜A - Spread](https://zenn.dev/hyperdb/articles/498ea68d696201)
 - [［AtCoder］ABC-328｜B - 11/11](https://zenn.dev/hyperdb/articles/d12bf8cc7396a6)
 - [［AtCoder］ABC-328｜A - Not Too Hard](https://zenn.dev/hyperdb/articles/88200d02fad0a7)
 - [［AtCoder］ABC-327｜B - A^A](https://zenn.dev/hyperdb/articles/f9dff584846cc4)
-- [［AtCoder］ABC-327｜A - ab](https://zenn.dev/hyperdb/articles/8fd3370285fa9f)
-- [［AtCoder］ABC-326｜B - 326-like Numbers](https://zenn.dev/hyperdb/articles/bee5c588ee4781)
 <!-- BLOG-POST-LIST:END -->
