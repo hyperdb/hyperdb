@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-332｜B - Glass and Mug](https://zenn.dev/hyperdb/articles/ea1ca1742e5cae)
+- [［AtCoder］ABC-332｜A - Online Shopping](https://zenn.dev/hyperdb/articles/c58e9eb69a1eff)
 - [［AtCoder］ABC-331｜B - Buy One Carton of Milk](https://zenn.dev/hyperdb/articles/9dbd014248e859)
 - [［AtCoder］ABC-331｜A - Tomorrow](https://zenn.dev/hyperdb/articles/03b3005a5d2066)
 - [［AtCoder］ABC-330｜B - Minimize Abs 1](https://zenn.dev/hyperdb/articles/a20d5784c7dd89)
-- [［AtCoder］ABC-330｜A - Counting Passes](https://zenn.dev/hyperdb/articles/604afaf65568e5)
-- [［AtCoder］ABC-329｜B - Next](https://zenn.dev/hyperdb/articles/a3508767d317b9)
 <!-- BLOG-POST-LIST:END -->
