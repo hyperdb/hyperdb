@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-337｜A - Scoreboard](https://zenn.dev/hyperdb/articles/b3a2d4427ee5cc)
+- [［AtCoder］ABC-337｜B - Extended ABC](https://zenn.dev/hyperdb/articles/87245cf070413d)
 - [［AtCoder］ABC-336｜B - CTZ](https://zenn.dev/hyperdb/articles/e617802d7b2a43)
 - [［AtCoder］ABC-336｜A - Long Loong](https://zenn.dev/hyperdb/articles/cc4b10197ad6b7)
 - [［AtCoder］ABC-335｜A - 202&lt;s&gt;3&lt;/s&gt;](https://zenn.dev/hyperdb/articles/800e68ed04b2b4)
-- [［AtCoder］ABC-335｜B - Tetrahedral Number](https://zenn.dev/hyperdb/articles/7098cbcd3d6c9e)
-- [［AtCoder］ABC-334｜A - Christmas Present](https://zenn.dev/hyperdb/articles/c256d51f792d9b)
 <!-- BLOG-POST-LIST:END -->
