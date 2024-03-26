@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-342｜B - Which is ahead?](https://zenn.dev/hyperdb/articles/ca74b06adf060e)
+- [［AtCoder］ABC-342｜A - Yay!](https://zenn.dev/hyperdb/articles/b3969312283d6d)
 - [［AtCoder］ABC-341｜B - Foreign Exchange](https://zenn.dev/hyperdb/articles/be895f336153a6)
 - [［AtCoder］ABC-340｜B - Append](https://zenn.dev/hyperdb/articles/4cc4dfd7ddac33)
 - [［AtCoder］ABC-340｜A - Arithmetic Progression](https://zenn.dev/hyperdb/articles/43f1561b305a4b)
-- [［AtCoder］ABC-341｜A - Print 341](https://zenn.dev/hyperdb/articles/28a1d2fa99d56e)
-- [［AtCoder］ABC-339｜A - TLD](https://zenn.dev/hyperdb/articles/b1ededfc9e10dd)
 <!-- BLOG-POST-LIST:END -->
