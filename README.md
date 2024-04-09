@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-347｜B - Substring](https://zenn.dev/hyperdb/articles/fe60ae7032d688)
+- [［AtCoder］ABC-347｜A - Divisible](https://zenn.dev/hyperdb/articles/f197587d385f34)
 - [［AtCoder］ABC-346｜A - Adjacent Product](https://zenn.dev/hyperdb/articles/889420a5e6a01f)
 - [［AtCoder］ABC-346｜B - Piano](https://zenn.dev/hyperdb/articles/77f50abca2fad5)
 - [［AtCoder］ABC-345｜A - Leftrightarrow](https://zenn.dev/hyperdb/articles/7164e63bbeb778)
-- [［AtCoder］ABC-345｜B - Integer Division Returns](https://zenn.dev/hyperdb/articles/2daf7b53028c84)
-- [［AtCoder］ABC-344｜B - Delimiter](https://zenn.dev/hyperdb/articles/e8d91d92ae776f)
 <!-- BLOG-POST-LIST:END -->
