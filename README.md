@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-338｜C - Leftover Recipes](https://zenn.dev/hyperdb/articles/f49c4be2e1abdc)
 - [［AtCoder］ABC-349｜C - Airport Code](https://zenn.dev/hyperdb/articles/c9a8b1ecdde78f)
 - [［AtCoder］ABC-349｜A - Zero Sum Game](https://zenn.dev/hyperdb/articles/24dca9b704358d)
 - [［AtCoder］ABC-349｜B - Commencement](https://zenn.dev/hyperdb/articles/0bc9852302426d)
 - [［AtCoder］ABC-348｜B - Farthest Point](https://zenn.dev/hyperdb/articles/f6ff95b3113f08)
-- [［AtCoder］ABC-348｜C - Colorful Beans](https://zenn.dev/hyperdb/articles/aba4f33c8ab904)
 <!-- BLOG-POST-LIST:END -->
