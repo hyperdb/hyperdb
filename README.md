@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-335｜C - Loong Tracking](https://zenn.dev/hyperdb/articles/c616fccc81fd3f)
+- [［AtCoder］ABC-336｜C - Even Digits](https://zenn.dev/hyperdb/articles/768b9f2b75a3cd)
 - [［AtCoder］ABC-337｜C - Lining Up 2](https://zenn.dev/hyperdb/articles/5713700cb0e958)
 - [［AtCoder］ABC-338｜C - Leftover Recipes](https://zenn.dev/hyperdb/articles/f49c4be2e1abdc)
 - [［AtCoder］ABC-349｜C - Airport Code](https://zenn.dev/hyperdb/articles/c9a8b1ecdde78f)
-- [［AtCoder］ABC-349｜A - Zero Sum Game](https://zenn.dev/hyperdb/articles/24dca9b704358d)
-- [［AtCoder］ABC-349｜B - Commencement](https://zenn.dev/hyperdb/articles/0bc9852302426d)
 <!-- BLOG-POST-LIST:END -->
