@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-333｜C - Repunit Trio](https://zenn.dev/hyperdb/articles/dc5c0ad5e53759)
-- [［AtCoder］ABC-334｜C - Socks 2](https://zenn.dev/hyperdb/articles/e08d22c3b4401a)
-- [［AtCoder］ABC-335｜C - Loong Tracking](https://zenn.dev/hyperdb/articles/c616fccc81fd3f)
-- [［AtCoder］ABC-336｜C - Even Digits](https://zenn.dev/hyperdb/articles/768b9f2b75a3cd)
-- [［AtCoder］ABC-337｜C - Lining Up 2](https://zenn.dev/hyperdb/articles/5713700cb0e958)
+- [［AtCoder］ABC-350｜A - Past ABCs](https://zenn.dev/hyperdb/articles/ccdca7a54a8c75)
+- [［AtCoder］ABC-352｜A - AtCoder Line](https://zenn.dev/hyperdb/articles/be901c99f055c0)
+- [［AtCoder］ABC-351｜A - The bottom of the ninth](https://zenn.dev/hyperdb/articles/a07508c9f5b92e)
+- [［AtCoder］ABC-350｜B - Dentist Aoki](https://zenn.dev/hyperdb/articles/552ae5d011f5d9)
+- [［AtCoder］ABC-352｜B - Typing](https://zenn.dev/hyperdb/articles/25f15c9a7c1b03)
 <!-- BLOG-POST-LIST:END -->
