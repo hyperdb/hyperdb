@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-042｜C - こだわり者いろはちゃん](https://zenn.dev/hyperdb/articles/156852a9dd7abf)
 - [［AtCoder］ABC-353｜B - AtCoder Amusement Park](https://zenn.dev/hyperdb/articles/47117c37468f8e)
 - [［AtCoder］ABC-353｜A - Buildings](https://zenn.dev/hyperdb/articles/1f1d17280f6d4c)
 - [［AtCoder］ABC-350｜A - Past ABCs](https://zenn.dev/hyperdb/articles/ccdca7a54a8c75)
 - [［AtCoder］ABC-352｜A - AtCoder Line](https://zenn.dev/hyperdb/articles/be901c99f055c0)
-- [［AtCoder］ABC-351｜A - The bottom of the ninth](https://zenn.dev/hyperdb/articles/a07508c9f5b92e)
 <!-- BLOG-POST-LIST:END -->
