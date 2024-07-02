@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-359｜B - Couples](https://zenn.dev/hyperdb/articles/33b96046b758cd)
+- [［AtCoder］ABC-359｜A - Count Takahashi](https://zenn.dev/hyperdb/articles/098d5248f8a0a0)
 - [［AtCoder］ABC-357｜A - Sanitize Hands](https://zenn.dev/hyperdb/articles/fac156c1225b74)
 - [［AtCoder］ABC-357｜B - Uppercase and Lowercase](https://zenn.dev/hyperdb/articles/98491c0182a37f)
 - [［AtCoder］ABC-358｜A - Welcome to AtCoder Land](https://zenn.dev/hyperdb/articles/5fcb20120d0216)
-- [［AtCoder］ABC-358｜B - Ticket Counter](https://zenn.dev/hyperdb/articles/410f1be20f02df)
-- [［AtCoder］ABC-355｜A - Who Ate the Cake?](https://zenn.dev/hyperdb/articles/f99b09992825f2)
 <!-- BLOG-POST-LIST:END -->
