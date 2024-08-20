@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-364｜B - Grid Walk](https://zenn.dev/hyperdb/articles/b691d239d47f47)
+- [［AtCoder］ABC-364｜A - Glutton Takahashi](https://zenn.dev/hyperdb/articles/40f1015cd0f8e9)
 - [［AtCoder］ABC-361｜B - Intersection of Cuboids](https://zenn.dev/hyperdb/articles/eba143356aa42b)
 - [［AtCoder］ABC-363｜A - Piling Up](https://zenn.dev/hyperdb/articles/eac6131b47b4b2)
 - [［AtCoder］ABC-363｜B - Japanese Cursed Doll](https://zenn.dev/hyperdb/articles/e57ebe2ea73cf7)
-- [［AtCoder］ABC-362｜B - Right Triangle](https://zenn.dev/hyperdb/articles/c73dd95cb4dda8)
-- [［AtCoder］ABC-360｜B - Vertical Reading](https://zenn.dev/hyperdb/articles/ac0992070b13e8)
 <!-- BLOG-POST-LIST:END -->
