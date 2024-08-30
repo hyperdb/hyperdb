@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-367｜B - Cut .0](https://zenn.dev/hyperdb/articles/69457ae4cda784)
+- [［AtCoder］ABC-367｜A - Shout Everyday](https://zenn.dev/hyperdb/articles/1fb9d083606344)
 - [［AtCoder］ABC-365｜A - Leap Year](https://zenn.dev/hyperdb/articles/b9792866750fca)
 - [［AtCoder］ABC-366｜B - Vertical Writing](https://zenn.dev/hyperdb/articles/8057ce2469f18d)
 - [［AtCoder］ABC-366｜A - Election 2](https://zenn.dev/hyperdb/articles/4106071cb789fe)
-- [［AtCoder］ABC-365｜B - Second Best](https://zenn.dev/hyperdb/articles/3b26ad177f67a7)
-- [［AtCoder］ABC-364｜B - Grid Walk](https://zenn.dev/hyperdb/articles/b691d239d47f47)
 <!-- BLOG-POST-LIST:END -->
