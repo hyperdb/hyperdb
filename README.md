@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-369｜A - 369](https://zenn.dev/hyperdb/articles/d240bfa2323841)
+- [［AtCoder］ABC-369｜B - Piano 3](https://zenn.dev/hyperdb/articles/ab09d8f803eb69)
+- [［AtCoder］ABC-368｜A - Cut](https://zenn.dev/hyperdb/articles/7c64c0d539de54)
+- [［AtCoder］ABC-368｜B - Decrease 2 max elements](https://zenn.dev/hyperdb/articles/1be1c20d89dc98)
 - [［AtCoder］ABC-367｜C - Enumerate Sequences](https://zenn.dev/hyperdb/articles/a769952ebbb8ca)
-- [［AtCoder］ABC-367｜B - Cut .0](https://zenn.dev/hyperdb/articles/69457ae4cda784)
-- [［AtCoder］ABC-367｜A - Shout Everyday](https://zenn.dev/hyperdb/articles/1fb9d083606344)
-- [［AtCoder］ABC-365｜A - Leap Year](https://zenn.dev/hyperdb/articles/b9792866750fca)
-- [［AtCoder］ABC-366｜B - Vertical Writing](https://zenn.dev/hyperdb/articles/8057ce2469f18d)
 <!-- BLOG-POST-LIST:END -->
