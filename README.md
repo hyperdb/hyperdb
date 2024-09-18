@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-370｜A - Raise Both Hands](https://zenn.dev/hyperdb/articles/ed81fe6227580b)
+- [［AtCoder］ABC-370｜B - Binary Alchemy](https://zenn.dev/hyperdb/articles/a7fae86920f7e0)
+- [［AtCoder］ABC-370｜C - Word Ladder](https://zenn.dev/hyperdb/articles/95dec18ab35ba1)
 - [［AtCoder］ABC-368｜C - Triple Attack](https://zenn.dev/hyperdb/articles/01fe20624cc1e6)
 - [［AtCoder］ABC-369｜A - 369](https://zenn.dev/hyperdb/articles/d240bfa2323841)
-- [［AtCoder］ABC-369｜B - Piano 3](https://zenn.dev/hyperdb/articles/ab09d8f803eb69)
-- [［AtCoder］ABC-368｜A - Cut](https://zenn.dev/hyperdb/articles/7c64c0d539de54)
-- [［AtCoder］ABC-368｜B - Decrease 2 max elements](https://zenn.dev/hyperdb/articles/1be1c20d89dc98)
 <!-- BLOG-POST-LIST:END -->
