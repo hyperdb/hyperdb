@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-375｜B - Traveling Takahashi Problem](https://zenn.dev/hyperdb/articles/e7e3c305921c15)
+- [［AtCoder］ABC-375｜A - Seats](https://zenn.dev/hyperdb/articles/caa7e7ec337f3a)
 - [［AtCoder］ABC-374｜A - Takahashi san 2](https://zenn.dev/hyperdb/articles/d211f0bc7f8dc3)
 - [［AtCoder］ABC-374｜C - Separated Lunch](https://zenn.dev/hyperdb/articles/cc7ec94dcbaa89)
 - [［AtCoder］ABC-374｜B - Unvarnished Report](https://zenn.dev/hyperdb/articles/62343e38ddf64f)
-- [［AtCoder］ABC-372｜C - Count ABC Again](https://zenn.dev/hyperdb/articles/8bdda9f331ce0d)
-- [［AtCoder］ABC-373｜C - Max Ai+Bj](https://zenn.dev/hyperdb/articles/a190b1d4a6d1bd)
 <!-- BLOG-POST-LIST:END -->
