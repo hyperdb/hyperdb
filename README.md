@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-377｜B - Avoid Rook Attack](https://zenn.dev/hyperdb/articles/966f12a0026645)
+- [［AtCoder］ABC-377｜A - Rearranging ABC](https://zenn.dev/hyperdb/articles/84768e06de05e6)
+- [［AtCoder］ABC-376｜B - Hands on Ring &lpar;Easy&rpar;](https://zenn.dev/hyperdb/articles/60ffd5527b88be)
+- [［AtCoder］ABC-376｜A - Candy Button](https://zenn.dev/hyperdb/articles/267b1de0ff065a)
 - [［AtCoder］ABC-375｜B - Traveling Takahashi Problem](https://zenn.dev/hyperdb/articles/e7e3c305921c15)
-- [［AtCoder］ABC-375｜A - Seats](https://zenn.dev/hyperdb/articles/caa7e7ec337f3a)
-- [［AtCoder］ABC-374｜A - Takahashi san 2](https://zenn.dev/hyperdb/articles/d211f0bc7f8dc3)
-- [［AtCoder］ABC-374｜C - Separated Lunch](https://zenn.dev/hyperdb/articles/cc7ec94dcbaa89)
-- [［AtCoder］ABC-374｜B - Unvarnished Report](https://zenn.dev/hyperdb/articles/62343e38ddf64f)
 <!-- BLOG-POST-LIST:END -->
