@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-376｜C - Prepare Another Box](https://zenn.dev/hyperdb/articles/ef57f52ae31848)
 - [［AtCoder］ABC-377｜C - Avoid Knight Attack](https://zenn.dev/hyperdb/articles/d6be9810cc0c74)
 - [［AtCoder］ABC-377｜B - Avoid Rook Attack](https://zenn.dev/hyperdb/articles/966f12a0026645)
 - [［AtCoder］ABC-377｜A - Rearranging ABC](https://zenn.dev/hyperdb/articles/84768e06de05e6)
 - [［AtCoder］ABC-376｜B - Hands on Ring &lpar;Easy&rpar;](https://zenn.dev/hyperdb/articles/60ffd5527b88be)
-- [［AtCoder］ABC-376｜A - Candy Button](https://zenn.dev/hyperdb/articles/267b1de0ff065a)
 <!-- BLOG-POST-LIST:END -->
