@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-035｜A - テレビ](https://zenn.dev/hyperdb/articles/f9a7a25b203a6e)
+- [［AtCoder］ABC-035｜B - ドローン](https://zenn.dev/hyperdb/articles/dd1321d7b4888c)
+- [［AtCoder］ABC-035｜C - オセロ](https://zenn.dev/hyperdb/articles/817575c5673ece)
 - [［AtCoder］ABC-045｜C - たくさんの数式](https://zenn.dev/hyperdb/articles/f42290fae85e4b)
 - [［AtCoder］ABC-044｜C - 高橋君とカード](https://zenn.dev/hyperdb/articles/cc834fb364d7a4)
-- [［AtCoder］ABC-376｜C - Prepare Another Box](https://zenn.dev/hyperdb/articles/ef57f52ae31848)
-- [［AtCoder］ABC-377｜C - Avoid Knight Attack](https://zenn.dev/hyperdb/articles/d6be9810cc0c74)
-- [［AtCoder］ABC-377｜B - Avoid Rook Attack](https://zenn.dev/hyperdb/articles/966f12a0026645)
 <!-- BLOG-POST-LIST:END -->
