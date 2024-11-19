@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-378｜A - Pairing](https://zenn.dev/hyperdb/articles/b75119707ed315)
+- [［AtCoder］ABC-378｜C - Repeating](https://zenn.dev/hyperdb/articles/9da47a078bccf4)
+- [［AtCoder］ABC-378｜B - Garbage Collection](https://zenn.dev/hyperdb/articles/9cd05d3fe4ba87)
 - [［AtCoder］ABC-033｜C - 数式の書き換え](https://zenn.dev/hyperdb/articles/9f6948992e4bae)
 - [［AtCoder］ABC-033｜B - 町の合併](https://zenn.dev/hyperdb/articles/8f1df06ceae846)
-- [［AtCoder］ABC-033｜A - 暗証番号](https://zenn.dev/hyperdb/articles/69bbb06df5c0b0)
-- [［AtCoder］ABC-035｜A - テレビ](https://zenn.dev/hyperdb/articles/f9a7a25b203a6e)
-- [［AtCoder］ABC-035｜B - ドローン](https://zenn.dev/hyperdb/articles/dd1321d7b4888c)
 <!-- BLOG-POST-LIST:END -->
