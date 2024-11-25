@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-379｜A - Cyclic](https://zenn.dev/hyperdb/articles/bc3df81d00e57c)
+- [［AtCoder］ABC-379｜B - Strawberries](https://zenn.dev/hyperdb/articles/4e4831c379b9ad)
 - [［AtCoder］ABC-378｜A - Pairing](https://zenn.dev/hyperdb/articles/b75119707ed315)
 - [［AtCoder］ABC-378｜C - Repeating](https://zenn.dev/hyperdb/articles/9da47a078bccf4)
 - [［AtCoder］ABC-378｜B - Garbage Collection](https://zenn.dev/hyperdb/articles/9cd05d3fe4ba87)
-- [［AtCoder］ABC-033｜C - 数式の書き換え](https://zenn.dev/hyperdb/articles/9f6948992e4bae)
-- [［AtCoder］ABC-033｜B - 町の合併](https://zenn.dev/hyperdb/articles/8f1df06ceae846)
 <!-- BLOG-POST-LIST:END -->
