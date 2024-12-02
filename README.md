@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-381｜A - 11/22 String](https://zenn.dev/hyperdb/articles/918557184de529)
+- [［AtCoder］ABC-381｜B - 1122 String](https://zenn.dev/hyperdb/articles/35a692d45f7b25)
+- [［AtCoder］ABC-381｜C - 11/22 Substring](https://zenn.dev/hyperdb/articles/298c0a5d1c759c)
 - [［AtCoder］ABC-380｜B - Hurdle Parsing](https://zenn.dev/hyperdb/articles/fdd45843ec3b7e)
 - [［AtCoder］ABC-380｜C - Move Segment](https://zenn.dev/hyperdb/articles/c83e8cb789bfba)
-- [［AtCoder］ABC-380｜A - 123233](https://zenn.dev/hyperdb/articles/9c024c9e299107)
-- [［AtCoder］ABC-379｜A - Cyclic](https://zenn.dev/hyperdb/articles/bc3df81d00e57c)
-- [［AtCoder］ABC-379｜B - Strawberries](https://zenn.dev/hyperdb/articles/4e4831c379b9ad)
 <!-- BLOG-POST-LIST:END -->
