@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-388｜C - Various Kagamimochi](https://zenn.dev/hyperdb/articles/67bd8a53e33218)
+- [［AtCoder］ABC-389｜B - tcaF](https://zenn.dev/hyperdb/articles/3abba1f2b7db1c)
+- [［AtCoder］ABC-389｜A - 9x9](https://zenn.dev/hyperdb/articles/0c7475cf673eed)
 - [［AtCoder］ABC-387｜A - Happy New Year 2025](https://zenn.dev/hyperdb/articles/dd8c0530ed10e3)
 - [［AtCoder］ABC-388｜A - ?UPC](https://zenn.dev/hyperdb/articles/6c41b6a47f5c7d)
-- [［AtCoder］ABC-388｜B - Heavy Snake](https://zenn.dev/hyperdb/articles/4dab64551d45fd)
-- [［AtCoder］ABC-387｜B - 9x9 Sum](https://zenn.dev/hyperdb/articles/2b4d62d77e99f5)
-- [［AtCoder］ABC-386｜A - Full House 2](https://zenn.dev/hyperdb/articles/d0f9b5f9281dc0)
 <!-- BLOG-POST-LIST:END -->
