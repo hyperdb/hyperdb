@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-392｜B - Who is Missing?](https://zenn.dev/hyperdb/articles/c00ad6628ac812)
+- [［AtCoder］ABC-392｜A - Shuffled Equation](https://zenn.dev/hyperdb/articles/275680a6266f8d)
 - [［AtCoder］ABC-391｜A - Lucky Direction](https://zenn.dev/hyperdb/articles/efd961e74532a0)
 - [［AtCoder］ABC-390｜A - 12435](https://zenn.dev/hyperdb/articles/a95e2f0974b377)
 - [［AtCoder］ABC-390｜B - Geometric Sequence](https://zenn.dev/hyperdb/articles/9504e999dbbd8b)
-- [［AtCoder］ABC-391｜B - Seek Grid](https://zenn.dev/hyperdb/articles/138b232a91dbcb)
-- [［AtCoder］ABC-388｜C - Various Kagamimochi](https://zenn.dev/hyperdb/articles/67bd8a53e33218)
 <!-- BLOG-POST-LIST:END -->
