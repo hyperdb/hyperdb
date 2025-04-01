@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-396｜B - Card Pile](https://zenn.dev/hyperdb/articles/bdf3abfca81aaf)
+- [［AtCoder］ABC-396｜A - Triple Four](https://zenn.dev/hyperdb/articles/bc812159909134)
+- [［AtCoder］ABC-397｜B - Ticket Gate Log](https://zenn.dev/hyperdb/articles/8bd2d464998dc8)
+- [［AtCoder］ABC-397｜A - Thermometer](https://zenn.dev/hyperdb/articles/3418d4d38313bc)
 - [［AtCoder］ABC-395｜B - Make Target](https://zenn.dev/hyperdb/articles/fc32235291ea5b)
-- [［AtCoder］ABC-395｜A - Strictly Increasing?](https://zenn.dev/hyperdb/articles/bf80ad33ff1bde)
-- [［AtCoder］ABC-394｜B - cat](https://zenn.dev/hyperdb/articles/d0b19402ec6e78)
-- [［AtCoder］ABC-393｜B - A..B..C](https://zenn.dev/hyperdb/articles/96783375d23059)
-- [［AtCoder］ABC-394｜A - 22222](https://zenn.dev/hyperdb/articles/675a420253e4c3)
 <!-- BLOG-POST-LIST:END -->
