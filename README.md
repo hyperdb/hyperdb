@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-399 ｜A - Hamming Distance](https://zenn.dev/hyperdb/articles/7da0eebe677a40)
+- [［AtCoder］ABC-399 ｜B - Ranking with Ties](https://zenn.dev/hyperdb/articles/2e4995d7d3ce86)
 - [［AtCoder］ABC-398｜B - Full House 3](https://zenn.dev/hyperdb/articles/97b49c94958fd2)
 - [［AtCoder］ABC-398｜A - Doors in the Center](https://zenn.dev/hyperdb/articles/5a94801fdf571b)
 - [［AtCoder］ABC-396｜B - Card Pile](https://zenn.dev/hyperdb/articles/bdf3abfca81aaf)
-- [［AtCoder］ABC-396｜A - Triple Four](https://zenn.dev/hyperdb/articles/bc812159909134)
-- [［AtCoder］ABC-397｜B - Ticket Gate Log](https://zenn.dev/hyperdb/articles/8bd2d464998dc8)
 <!-- BLOG-POST-LIST:END -->
