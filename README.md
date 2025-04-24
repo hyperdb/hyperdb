@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-401｜B - Unauthorized](https://zenn.dev/hyperdb/articles/429434122e0c0a)
+- [［AtCoder］ABC-401｜A - Status Code](https://zenn.dev/hyperdb/articles/1a23fd626da2f7)
 - [［AtCoder］ABC-400 ｜B - Sum of Geometric Series](https://zenn.dev/hyperdb/articles/9aece9113b5c0a)
 - [［AtCoder］ABC-400 ｜A - ABC400 Party](https://zenn.dev/hyperdb/articles/60c9e4c0faa4ab)
 - [［AtCoder］ABC-399 ｜A - Hamming Distance](https://zenn.dev/hyperdb/articles/7da0eebe677a40)
-- [［AtCoder］ABC-399 ｜B - Ranking with Ties](https://zenn.dev/hyperdb/articles/2e4995d7d3ce86)
-- [［AtCoder］ABC-398｜B - Full House 3](https://zenn.dev/hyperdb/articles/97b49c94958fd2)
 <!-- BLOG-POST-LIST:END -->
