@@ -19,9 +19,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-402｜B - Restaurant Queue](https://zenn.dev/hyperdb/articles/dcc637f18cbe92)
-- [［AtCoder］ABC-402｜A - CBC](https://zenn.dev/hyperdb/articles/6446b9e7f14233)
 - [［AtCoder］ABC-401｜B - Unauthorized](https://zenn.dev/hyperdb/articles/429434122e0c0a)
 - [［AtCoder］ABC-401｜A - Status Code](https://zenn.dev/hyperdb/articles/1a23fd626da2f7)
 - [［AtCoder］ABC-400 ｜B - Sum of Geometric Series](https://zenn.dev/hyperdb/articles/9aece9113b5c0a)
+- [［AtCoder］ABC-400 ｜A - ABC400 Party](https://zenn.dev/hyperdb/articles/60c9e4c0faa4ab)
+- [［AtCoder］ABC-399 ｜A - Hamming Distance](https://zenn.dev/hyperdb/articles/7da0eebe677a40)
 <!-- BLOG-POST-LIST:END -->
