@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-412｜A - Task Failed Successfully](https://zenn.dev/hyperdb/articles/dd52af0f8c61e4)
+- [［AtCoder］ABC-412｜B - Precondition](https://zenn.dev/hyperdb/articles/70d3c08a89a5fc)
 - [［AtCoder］ABC-411｜A - Required Length](https://zenn.dev/hyperdb/articles/75db03423ed84e)
 - [［AtCoder］ABC-411｜B - Distance Table](https://zenn.dev/hyperdb/articles/70be34bd8e7232)
 - [［AtCoder］ABC-410｜A - G1](https://zenn.dev/hyperdb/articles/c0f3c2755ccc04)
-- [［AtCoder］ABC-410｜B - Reverse Proxy](https://zenn.dev/hyperdb/articles/a58ad60d6bcf56)
-- [［AtCoder］ABC-409｜B - Citation](https://zenn.dev/hyperdb/articles/fcd08941e8dda7)
 <!-- BLOG-POST-LIST:END -->
