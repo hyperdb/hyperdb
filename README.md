@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-415｜A - Unsupported Type](https://zenn.dev/hyperdb/articles/d734ad004ba9b7)
+- [［AtCoder］ABC-415｜B - Pick Two](https://zenn.dev/hyperdb/articles/3404ef71a54855)
 - [［AtCoder］ABC-414｜A - Streamer Takahashi](https://zenn.dev/hyperdb/articles/b5dd38d3fb4f75)
 - [［AtCoder］ABC-414｜B - String Too Long](https://zenn.dev/hyperdb/articles/402c7efc49cc5d)
 - [［AtCoder］ABC-413｜B - cat 2](https://zenn.dev/hyperdb/articles/becf691f16278e)
-- [［AtCoder］ABC-413｜A - Content Too Large](https://zenn.dev/hyperdb/articles/7175e83c07f21a)
-- [［AtCoder］ABC-412｜A - Task Failed Successfully](https://zenn.dev/hyperdb/articles/dd52af0f8c61e4)
 <!-- BLOG-POST-LIST:END -->
