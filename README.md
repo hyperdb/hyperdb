@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-419｜B - Get Min](https://zenn.dev/hyperdb/articles/faaa2663724b7d)
-- [［AtCoder］ABC-421｜B - Fibonacci Reversed](https://zenn.dev/hyperdb/articles/e7b65dcbeae7bb)
-- [［AtCoder］ABC-416｜A - Vacation Validation](https://zenn.dev/hyperdb/articles/ca749c4dd3f236)
-- [［AtCoder］ABC-418｜A - I&#39;m a teapot](https://zenn.dev/hyperdb/articles/84e507a3fe6610)
-- [［AtCoder］ABC-417｜B - Search and Delete](https://zenn.dev/hyperdb/articles/7a51744ab05eda)
+- [［AtCoder］ABC-432｜B - Permute to Minimize](https://zenn.dev/hyperdb/articles/5c3dc5aef5be5c)
+- [［AtCoder］ABC-431｜B - Robot Weigh](https://zenn.dev/hyperdb/articles/3cf338f09a7ec9)
+- [［AtCoder］ABC-427｜B - Sum of Digits Sequence](https://zenn.dev/hyperdb/articles/1dc1e7bd0c4e7c)
+- [［AtCoder］ABC-427｜A - ABC -&gt; AC](https://zenn.dev/hyperdb/articles/1afe562ad0ad8f)
+- [［AtCoder］ABC-432｜A - Permute to Maximize](https://zenn.dev/hyperdb/articles/0f8d18246a71e3)
 <!-- BLOG-POST-LIST:END -->
