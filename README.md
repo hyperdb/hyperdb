@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [［AtCoder］ABC-424｜B - Perfect](https://zenn.dev/hyperdb/articles/98ffdba8e49a4b)
-- [［AtCoder］ABC-423｜B - Locked Rooms](https://zenn.dev/hyperdb/articles/564fab75e87d3f)
-- [［AtCoder］ABC-425｜B - Find Permutation 2](https://zenn.dev/hyperdb/articles/21271ac0364dd9)
-- [［AtCoder］ABC-426｜B - The Odd One Out](https://zenn.dev/hyperdb/articles/112aacb12077d8)
-- [［AtCoder］ABC-424｜A - Isosceles](https://zenn.dev/hyperdb/articles/002b087b596002)
+- [［AtCoder］ABC-431｜A - Robot Balance](https://zenn.dev/hyperdb/articles/f2a4e34283d6a4)
+- [［AtCoder］ABC-426｜A - OS Versions](https://zenn.dev/hyperdb/articles/e6c44af364a18e)
+- [［AtCoder］ABC-425｜A - Sigma Cubes](https://zenn.dev/hyperdb/articles/e45673f3786dcd)
+- [［AtCoder］ABC-423｜A - Scary Fee](https://zenn.dev/hyperdb/articles/ba9c276a07079c)
+- [［AtCoder］ABC-047｜C - 一次元リバーシ](https://zenn.dev/hyperdb/articles/6931271b297c2a)
 <!-- BLOG-POST-LIST:END -->
