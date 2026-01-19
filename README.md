@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-436｜B - Magic Square](https://zenn.dev/hyperdb/articles/f69e55ebc03219)
+- [［AtCoder］ABC-437｜A - Feet](https://zenn.dev/hyperdb/articles/e04a2a0b165467)
+- [［AtCoder］ABC-049｜C - 白昼夢](https://zenn.dev/hyperdb/articles/787f2b3218144f)
 - [［AtCoder］ABC-437｜B - Tombola](https://zenn.dev/hyperdb/articles/ca44e8b1ea7e42)
 - [［AtCoder］ABC-439｜B - Happy Number](https://zenn.dev/hyperdb/articles/400d7cf5d7b272)
-- [［AtCoder］ABC-438｜B - Substring 2](https://zenn.dev/hyperdb/articles/25422653e22b6e)
-- [［AtCoder］ABC-438｜A - First Contest of the Year](https://zenn.dev/hyperdb/articles/23b790c7bec1c0)
-- [［AtCoder］ABC-439｜A - 2^n - 2*n](https://zenn.dev/hyperdb/articles/20263af41475dc)
 <!-- BLOG-POST-LIST:END -->
