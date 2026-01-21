@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-440｜B - Trifecta](https://zenn.dev/hyperdb/articles/fb0d25281eafb7)
+- [［AtCoder］ABC-440｜A - Octave](https://zenn.dev/hyperdb/articles/a0db429b76eb11)
 - [［AtCoder］ABC-058｜C - 怪文書](https://zenn.dev/hyperdb/articles/fc11cd49837809)
 - [［AtCoder］ABC-057｜C - Digits in Multiplication](https://zenn.dev/hyperdb/articles/edfbfc972deef1)
 - [［AtCoder］ABC-059｜C - Sequence](https://zenn.dev/hyperdb/articles/a675882f2b7b26)
-- [［AtCoder］ABC-056｜C - Go Home](https://zenn.dev/hyperdb/articles/b3849b6b193632)
-- [［AtCoder］ABC-055｜C - Scc Puzzle](https://zenn.dev/hyperdb/articles/08e4729225f8ed)
 <!-- BLOG-POST-LIST:END -->
