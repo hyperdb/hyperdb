@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-063｜C - Bugged](https://zenn.dev/hyperdb/articles/1299c9b6a66532)
+- [［AtCoder］ABC-061｜C - Big Array](https://zenn.dev/hyperdb/articles/91771a79d668cb)
 - [［AtCoder］ABC-060｜C - Sentou](https://zenn.dev/hyperdb/articles/9864ce8aa8fde2)
 - [［AtCoder］ABC-440｜B - Trifecta](https://zenn.dev/hyperdb/articles/fb0d25281eafb7)
 - [［AtCoder］ABC-440｜A - Octave](https://zenn.dev/hyperdb/articles/a0db429b76eb11)
-- [［AtCoder］ABC-058｜C - 怪文書](https://zenn.dev/hyperdb/articles/fc11cd49837809)
-- [［AtCoder］ABC-057｜C - Digits in Multiplication](https://zenn.dev/hyperdb/articles/edfbfc972deef1)
 <!-- BLOG-POST-LIST:END -->
