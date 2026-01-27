@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-066｜C - pushpush](https://zenn.dev/hyperdb/articles/f72baa0e548ba2)
 - [［AtCoder］ABC-441｜B - Two Languages](https://zenn.dev/hyperdb/articles/232de0ac9337c7)
 - [［AtCoder］ABC-441｜A - Black Square](https://zenn.dev/hyperdb/articles/1e5e2430739b1c)
 - [［AtCoder］ABC-065｜C - Reconciled?](https://zenn.dev/hyperdb/articles/d658fc992701bd)
 - [［AtCoder］ABC-064｜C - Colorful Leaderboard](https://zenn.dev/hyperdb/articles/b54f35cf02228a)
-- [［AtCoder］ABC-063｜C - Bugged](https://zenn.dev/hyperdb/articles/1299c9b6a66532)
 <!-- BLOG-POST-LIST:END -->
