@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-070｜C - Multiple Clocks](https://zenn.dev/hyperdb/articles/a6dfdcf9c69117)
+- [［AtCoder］ABC-071｜C - Make a Rectangle](https://zenn.dev/hyperdb/articles/5718f8e3aca565)
+- [［AtCoder］ABC-069｜C - 4-adjacent](https://zenn.dev/hyperdb/articles/40f744b7a08fae)
 - [［AtCoder］ABC-067｜C - Splitting Pile](https://zenn.dev/hyperdb/articles/90acc1e63cdf0c)
 - [［AtCoder］ABC-068｜C - Cat Snuke and a Voyage](https://zenn.dev/hyperdb/articles/3570c7834fd468)
-- [［AtCoder］ABC-066｜C - pushpush](https://zenn.dev/hyperdb/articles/f72baa0e548ba2)
-- [［AtCoder］ABC-441｜B - Two Languages](https://zenn.dev/hyperdb/articles/232de0ac9337c7)
-- [［AtCoder］ABC-441｜A - Black Square](https://zenn.dev/hyperdb/articles/1e5e2430739b1c)
 <!-- BLOG-POST-LIST:END -->
