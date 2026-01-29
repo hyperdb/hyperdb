@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-074｜C - Sugar Water](https://zenn.dev/hyperdb/articles/2555129a6b572c)
 - [［AtCoder］ABC-072｜C - Together](https://zenn.dev/hyperdb/articles/65551e36986fa6)
 - [［AtCoder］ABC-073｜C - Write and Erase](https://zenn.dev/hyperdb/articles/5bae81f0161e3a)
 - [［AtCoder］ABC-070｜C - Multiple Clocks](https://zenn.dev/hyperdb/articles/a6dfdcf9c69117)
 - [［AtCoder］ABC-071｜C - Make a Rectangle](https://zenn.dev/hyperdb/articles/5718f8e3aca565)
-- [［AtCoder］ABC-069｜C - 4-adjacent](https://zenn.dev/hyperdb/articles/40f744b7a08fae)
 <!-- BLOG-POST-LIST:END -->
