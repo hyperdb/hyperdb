@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-443｜A - Append s](https://zenn.dev/hyperdb/articles/705672e21fbb2c)
+- [［AtCoder］ABC-443｜B - Setsubun](https://zenn.dev/hyperdb/articles/5209462a61d888)
 - [［AtCoder］ABC-087｜C - Candies](https://zenn.dev/hyperdb/articles/6af396af437949)
 - [［AtCoder］ABC-079｜C - Train Ticket](https://zenn.dev/hyperdb/articles/068af1ce714483)
 - [［AtCoder］ABC-442｜B - Music Player](https://zenn.dev/hyperdb/articles/c6643e4cf03f39)
-- [［AtCoder］ABC-442｜A - Count .](https://zenn.dev/hyperdb/articles/b93409fe85f6e8)
-- [［AtCoder］ABC-422｜B - Looped Rope](https://zenn.dev/hyperdb/articles/fd4738e9be164a)
 <!-- BLOG-POST-LIST:END -->
