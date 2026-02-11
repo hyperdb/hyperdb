@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-077｜C - Snuke Festival](https://zenn.dev/hyperdb/articles/c5d23822fe31b9)
+- [［AtCoder］ABC-076｜C - Dubious Document 2](https://zenn.dev/hyperdb/articles/b79127b07e7980)
 - [［AtCoder］ABC-062｜C - Chocolate Bar](https://zenn.dev/hyperdb/articles/327d153595a862)
 - [［AtCoder］ABC-443｜C - Chokutter Addiction](https://zenn.dev/hyperdb/articles/740195645d37dd)
 - [［AtCoder］ABC-442｜C - Peer Review](https://zenn.dev/hyperdb/articles/026ae2db6a845a)
-- [［AtCoder］ABC-443｜A - Append s](https://zenn.dev/hyperdb/articles/705672e21fbb2c)
-- [［AtCoder］ABC-443｜B - Setsubun](https://zenn.dev/hyperdb/articles/5209462a61d888)
 <!-- BLOG-POST-LIST:END -->
