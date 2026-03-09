@@ -17,9 +17,9 @@
 ## 🔖Ｍy Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [［AtCoder］ABC-447｜A - Seats 2](https://zenn.dev/hyperdb/articles/f3ea8e01a055c3)
+- [［AtCoder］ABC-447｜B - mpp](https://zenn.dev/hyperdb/articles/1ed9805919885e)
+- [［AtCoder］ABC-447｜C - Insert and Erase A](https://zenn.dev/hyperdb/articles/1aeaf632ae595c)
 - [［AtCoder］ABC-446｜A - Handmaid](https://zenn.dev/hyperdb/articles/8b7614865f3008)
 - [［AtCoder］ABC-446｜C - Omelette Restaurant](https://zenn.dev/hyperdb/articles/57eebaec9403f4)
-- [［AtCoder］ABC-446｜B - Greedy Draft](https://zenn.dev/hyperdb/articles/43585ed316b988)
-- [［AtCoder］ABC-094｜C - Many Medians](https://zenn.dev/hyperdb/articles/8cebbb8536c5d8)
-- [［AtCoder］ABC-093｜C - Same Integers](https://zenn.dev/hyperdb/articles/4867a9de95b2ea)
 <!-- BLOG-POST-LIST:END -->
