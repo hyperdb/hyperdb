@@ -8,11 +8,9 @@
 
 ## 🔖Ｍy Stats
 
-[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hyperdb&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hyperdb&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=hyperdb&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
 
-## 🔖Ｍy Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyperdb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hyperdb&langs_count=6&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=hyperdb&langs_count=6&hide_values=true&theme=radical)
 
 ## 🔖Ｍy Blog Post
 
